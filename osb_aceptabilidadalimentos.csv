@@ -1,0 +1,1586 @@
+Área;Año;Alimento;Total muestras;Número muestras que cumplen;% Cumplimiento;Número de muestras que no cumplen;% de no cumplimiento
+Usaquén;2013;Bebidas alcohólicas;125;121;97%;4;3%
+Chapinero;2013;Bebidas alcohólicas;112;83;74%;29;26%
+Santa Fe;2013;Bebidas alcohólicas;88;83;94%;5;6%
+San Cristóbal;2013;Bebidas alcohólicas;122;116;95%;6;5%
+Usme;2013;Bebidas alcohólicas;113;89;79%;24;21%
+Tunjuelito;2013;Bebidas alcohólicas;95;91;96%;4;4%
+Bosa;2013;Bebidas alcohólicas;132;88;67%;44;33%
+Kennedy;2013;Bebidas alcohólicas;114;106;93%;8;7%
+Fontibón;2013;Bebidas alcohólicas;145;118;81%;27;19%
+Engativá;2013;Bebidas alcohólicas;123;120;98%;3;2%
+Suba;2013;Bebidas alcohólicas;113;97;86%;16;14%
+Barrios Unidos;2013;Bebidas alcohólicas;64;57;89%;7;11%
+Teusaquillo;2013;Bebidas alcohólicas;79;42;53%;37;47%
+Los Mártires;2013;Bebidas alcohólicas;91;87;96%;4;4%
+Antonio Nariño;2013;Bebidas alcohólicas;118;99;84%;19;16%
+Puente Aranda;2013;Bebidas alcohólicas;98;94;96%;4;4%
+La Candelaria;2013;Bebidas alcohólicas;66;64;97%;2;3%
+Rafael Uribe Uribe;2013;Bebidas alcohólicas;159;109;69%;50;31%
+Ciudad Bolívar;2013;Bebidas alcohólicas;114;97;85%;17;15%
+Distrito;2013;Bebidas alcohólicas;2.071;1.761;85%;310;15%
+Usaquén;2014;Bebidas alcohólicas;111;106;95%;5;5%
+Chapinero;2014;Bebidas alcohólicas;75;49;65%;26;35%
+Santa Fe;2014;Bebidas alcohólicas;73;72;99%;1;1%
+San Cristóbal;2014;Bebidas alcohólicas;116;114;98%;2;2%
+Usme;2014;Bebidas alcohólicas;111;101;91%;10;9%
+Tunjuelito;2014;Bebidas alcohólicas;95;94;99%;1;1%
+Bosa;2014;Bebidas alcohólicas;117;102;87%;15;13%
+Kennedy;2014;Bebidas alcohólicas;125;121;97%;4;3%
+Fontibón;2014;Bebidas alcohólicas;100;92;92%;8;8%
+Engativá;2014;Bebidas alcohólicas;95;91;96%;4;4%
+Suba;2014;Bebidas alcohólicas;109;99;91%;10;9%
+Barrios Unidos;2014;Bebidas alcohólicas;71;53;75%;18;25%
+Teusaquillo;2014;Bebidas alcohólicas;102;63;62%;39;38%
+Los Mártires;2014;Bebidas alcohólicas;78;70;90%;8;10%
+Antonio Nariño;2014;Bebidas alcohólicas;107;100;93%;7;7%
+Puente Aranda;2014;Bebidas alcohólicas;107;104;97%;3;3%
+La Candelaria;2014;Bebidas alcohólicas;94;92;98%;2;2%
+Rafael Uribe Uribe;2014;Bebidas alcohólicas;111;90;81%;21;19%
+Ciudad Bolívar;2014;Bebidas alcohólicas;95;91;96%;4;4%
+Distrito;2014;Bebidas alcohólicas;1.892;1.704;90%;188;10%
+Usaquén;2015;Bebidas alcohólicas;75;73;97%;2;3%
+Chapinero;2015;Bebidas alcohólicas;77;51;66%;26;34%
+Santa Fe;2015;Bebidas alcohólicas;60;58;97%;2;3%
+San Cristóbal;2015;Bebidas alcohólicas;89;87;98%;2;2%
+Usme;2015;Bebidas alcohólicas;95;92;97%;3;3%
+Tunjuelito;2015;Bebidas alcohólicas;90;88;98%;2;2%
+Bosa;2015;Bebidas alcohólicas;100;78;78%;22;22%
+Kennedy;2015;Bebidas alcohólicas;112;105;94%;7;6%
+Fontibón;2015;Bebidas alcohólicas;81;77;95%;4;5%
+Engativá;2015;Bebidas alcohólicas;86;84;98%;2;2%
+Suba;2015;Bebidas alcohólicas;86;81;94%;5;6%
+Barrios Unidos;2015;Bebidas alcohólicas;37;30;81%;7;19%
+Teusaquillo;2015;Bebidas alcohólicas;60;57;95%;3;5%
+Los Mártires;2015;Bebidas alcohólicas;51;47;92%;4;8%
+Antonio Nariño;2015;Bebidas alcohólicas;105;98;93%;7;7%
+Puente Aranda;2015;Bebidas alcohólicas;109;108;99%;1;1%
+La Candelaria;2015;Bebidas alcohólicas;44;44;100%;0;0%
+Rafael Uribe Uribe;2015;Bebidas alcohólicas;101;93;92%;8;8%
+Ciudad Bolívar;2015;Bebidas alcohólicas;93;88;95%;5;5%
+Distrito;2015;Bebidas alcohólicas;1.551;1.439;93%;112;7%
+Usaquén;2016;Bebidas alcohólicas;69;67;97%;2;3%
+Chapinero;2016;Bebidas alcohólicas;57;45;79%;12;21%
+Santa Fe;2016;Bebidas alcohólicas;60;59;98%;1;2%
+San Cristóbal;2016;Bebidas alcohólicas;89;85;96%;4;4%
+Usme;2016;Bebidas alcohólicas;67;60;90%;7;10%
+Tunjuelito;2016;Bebidas alcohólicas;59;55;93%;4;7%
+Bosa;2016;Bebidas alcohólicas;55;44;80%;11;20%
+Kennedy;2016;Bebidas alcohólicas;83;78;94%;5;6%
+Fontibón;2016;Bebidas alcohólicas;95;89;94%;6;6%
+Engativá;2016;Bebidas alcohólicas;67;65;97%;2;3%
+Suba;2016;Bebidas alcohólicas;58;56;97%;2;3%
+Barrios Unidos;2016;Bebidas alcohólicas;34;30;88%;4;12%
+Teusaquillo;2016;Bebidas alcohólicas;43;41;95%;2;5%
+Los Mártires;2016;Bebidas alcohólicas;55;52;95%;3;5%
+Antonio Nariño;2016;Bebidas alcohólicas;61;58;95%;3;5%
+Puente Aranda;2016;Bebidas alcohólicas;72;67;93%;5;7%
+La Candelaria;2016;Bebidas alcohólicas;49;48;98%;1;2%
+Rafael Uribe Uribe;2016;Bebidas alcohólicas;70;62;89%;8;11%
+Ciudad Bolívar;2016;Bebidas alcohólicas;59;57;97%;2;3%
+Distrito;2016;Bebidas alcohólicas;1.202;1.118;93%;84;7%
+Usaquén;2017;Bebidas alcohólicas;72;70;97%;2;3%
+Chapinero;2017;Bebidas alcohólicas;87;85;98%;2;2%
+Santa Fe;2017;Bebidas alcohólicas;75;73;97%;2;3%
+San Cristóbal;2017;Bebidas alcohólicas;91;91;100%;0;0%
+Usme;2017;Bebidas alcohólicas;86;83;97%;3;3%
+Tunjuelito;2017;Bebidas alcohólicas;96;90;94%;6;6%
+Bosa;2017;Bebidas alcohólicas;69;65;94%;4;6%
+Kennedy;2017;Bebidas alcohólicas;124;123;99%;1;1%
+Fontibón;2017;Bebidas alcohólicas;92;87;95%;5;5%
+Engativá;2017;Bebidas alcohólicas;103;92;89%;11;11%
+Suba;2017;Bebidas alcohólicas;80;75;94%;5;6%
+Barrios Unidos;2017;Bebidas alcohólicas;78;77;99%;1;1%
+Teusaquillo;2017;Bebidas alcohólicas;60;59;98%;1;2%
+Los Mártires;2017;Bebidas alcohólicas;82;78;95%;4;5%
+Antonio Nariño;2017;Bebidas alcohólicas;97;94;97%;3;3%
+Puente Aranda;2017;Bebidas alcohólicas;53;51;96%;2;4%
+La Candelaria;2017;Bebidas alcohólicas;69;68;99%;1;1%
+Rafael Uribe Uribe;2017;Bebidas alcohólicas;82;82;100%;0;0%
+Ciudad Bolívar;2017;Bebidas alcohólicas;96;96;100%;0;0%
+Distrito;2017;Bebidas alcohólicas;1.592;1.539;97%;53;3%
+Usaquén;2018;Bebidas alcohólicas;66;66;100%;0;0%
+Chapinero;2018;Bebidas alcohólicas;46;46;100%;0;0%
+Santa Fe;2018;Bebidas alcohólicas;57;54;95%;3;5%
+San Cristóbal;2018;Bebidas alcohólicas;60;58;97%;2;3%
+Usme;2018;Bebidas alcohólicas;47;47;100%;0;0%
+Tunjuelito;2018;Bebidas alcohólicas;50;49;98%;1;2%
+Bosa;2018;Bebidas alcohólicas;53;51;96%;2;4%
+Kennedy;2018;Bebidas alcohólicas;64;63;98%;1;2%
+Fontibón;2018;Bebidas alcohólicas;62;60;97%;2;3%
+Engativá;2018;Bebidas alcohólicas;45;44;98%;1;2%
+Suba;2018;Bebidas alcohólicas;57;56;98%;1;2%
+Barrios Unidos;2018;Bebidas alcohólicas;51;51;100%;0;0%
+Teusaquillo;2018;Bebidas alcohólicas;50;49;98%;1;2%
+Los Mártires;2018;Bebidas alcohólicas;48;47;98%;1;2%
+Antonio Nariño;2018;Bebidas alcohólicas;50;50;100%;0;0%
+Puente Aranda;2018;Bebidas alcohólicas;56;56;100%;0;0%
+La Candelaria;2018;Bebidas alcohólicas;53;53;100%;0;0%
+Rafael Uribe Uribe;2018;Bebidas alcohólicas;49;47;96%;2;4%
+Ciudad Bolívar;2018;Bebidas alcohólicas;47;46;98%;1;2%
+Distrito;2018;Bebidas alcohólicas;1.011;993;98%;18;2%
+Usaquén;2019;Bebidas alcohólicas;37;37;100%;0;0%
+Chapinero;2019;Bebidas alcohólicas;39;38;97%;1;3%
+Santa Fe;2019;Bebidas alcohólicas;35;35;100%;0;0%
+San Cristóbal;2019;Bebidas alcohólicas;43;43;100%;0;0%
+Usme;2019;Bebidas alcohólicas;36;36;100%;0;0%
+Tunjuelito;2019;Bebidas alcohólicas;42;42;100%;0;0%
+Bosa;2019;Bebidas alcohólicas;42;41;98%;1;2%
+Kennedy;2019;Bebidas alcohólicas;47;46;98%;1;2%
+Fontibón;2019;Bebidas alcohólicas;42;41;98%;1;2%
+Engativá;2019;Bebidas alcohólicas;35;35;100%;0;0%
+Suba;2019;Bebidas alcohólicas;36;35;97%;1;3%
+Barrios Unidos;2019;Bebidas alcohólicas;28;28;100%;0;0%
+Teusaquillo;2019;Bebidas alcohólicas;32;32;100%;0;0%
+Los Mártires;2019;Bebidas alcohólicas;45;45;100%;0;0%
+Antonio Nariño;2019;Bebidas alcohólicas;39;39;100%;0;0%
+Puente Aranda;2019;Bebidas alcohólicas;48;48;100%;0;0%
+La Candelaria;2019;Bebidas alcohólicas;45;44;98%;1;2%
+Rafael Uribe Uribe;2019;Bebidas alcohólicas;39;39;100%;0;0%
+Ciudad Bolívar;2019;Bebidas alcohólicas;45;45;100%;0;0%
+Distrito;2019;Bebidas alcohólicas;755;749;99%;6;1%
+Usaquén;2020;Bebidas alcohólicas;12;12;100%;0;0%
+Chapinero;2020;Bebidas alcohólicas;12;12;100%;0;0%
+Santa Fe;2020;Bebidas alcohólicas;6;6;100%;0;0%
+San Cristóbal;2020;Bebidas alcohólicas;6;6;100%;0;0%
+Usme;2020;Bebidas alcohólicas;9;9;100%;0;0%
+Tunjuelito;2020;Bebidas alcohólicas;11;11;100%;0;0%
+Bosa;2020;Bebidas alcohólicas;12;12;100%;0;0%
+Kennedy;2020;Bebidas alcohólicas;12;12;100%;0;0%
+Fontibón;2020;Bebidas alcohólicas;6;6;100%;0;0%
+Engativá;2020;Bebidas alcohólicas;12;12;100%;0;0%
+Suba;2020;Bebidas alcohólicas;12;12;100%;0;0%
+Barrios Unidos;2020;Bebidas alcohólicas;12;12;100%;0;0%
+Teusaquillo;2020;Bebidas alcohólicas;12;12;100%;0;0%
+Los Mártires;2020;Bebidas alcohólicas;7;7;100%;0;0%
+Antonio Nariño;2020;Bebidas alcohólicas;6;6;100%;0;0%
+Puente Aranda;2020;Bebidas alcohólicas;6;6;100%;0;0%
+La Candelaria;2020;Bebidas alcohólicas;6;6;100%;0;0%
+Rafael Uribe Uribe;2020;Bebidas alcohólicas;6;6;100%;0;0%
+Ciudad Bolívar;2020;Bebidas alcohólicas;10;10;100%;0;0%
+Distrito;2020;Bebidas alcohólicas;175;175;100%;0;0%
+Usaquén;2021;Bebidas alcohólicas;17;17;100%;0;0%
+Chapinero;2021;Bebidas alcohólicas;28;28;100%;0;0%
+Santa Fe;2021;Bebidas alcohólicas;34;34;100%;0;0%
+San Cristóbal;2021;Bebidas alcohólicas;15;15;100%;0;0%
+Usme;2021;Bebidas alcohólicas;31;31;100%;0;0%
+Tunjuelito;2021;Bebidas alcohólicas;32;32;100%;0;0%
+Bosa;2021;Bebidas alcohólicas;31;31;100%;0;0%
+Kennedy;2021;Bebidas alcohólicas;15;15;100%;0;0%
+Fontibón;2021;Bebidas alcohólicas;28;27;96%;1;4%
+Engativá;2021;Bebidas alcohólicas;34;34;100%;0;0%
+Suba;2021;Bebidas alcohólicas;31;31;100%;0;0%
+Barrios Unidos;2021;Bebidas alcohólicas;25;25;100%;0;0%
+Teusaquillo;2021;Bebidas alcohólicas;28;28;100%;0;0%
+Los Mártires;2021;Bebidas alcohólicas;25;25;100%;0;0%
+Antonio Nariño;2021;Bebidas alcohólicas;21;21;100%;0;0%
+Puente Aranda;2021;Bebidas alcohólicas;37;37;100%;0;0%
+La Candelaria;2021;Bebidas alcohólicas;17;17;100%;0;0%
+Rafael Uribe Uribe;2021;Bebidas alcohólicas;28;28;100%;0;0%
+Ciudad Bolívar;2021;Bebidas alcohólicas;33;33;100%;0;0%
+Distrito;2021;Bebidas alcohólicas;510;509;100%;1;0%
+Usaquén;2022p;Bebidas alcohólicas;49;49;100%;0;0%
+Chapinero;2022p;Bebidas alcohólicas;52;52;100%;0;0%
+Santa Fe;2022p;Bebidas alcohólicas;55;55;100%;0;0%
+San Cristóbal;2022p;Bebidas alcohólicas;51;50;98%;1;2,00%
+Usme;2022p;Bebidas alcohólicas;43;43;100%;0;0%
+Tunjuelito;2022p;Bebidas alcohólicas;57;57;100%;0;0%
+Bosa;2022p;Bebidas alcohólicas;37;37;100%;0;0%
+Kennedy;2022p;Bebidas alcohólicas;49;49;100%;0;0%
+Fontibón;2022p;Bebidas alcohólicas;52;52;100%;0;0%
+Engativá;2022p;Bebidas alcohólicas;54;53;98%;1;1,90%
+Suba;2022p;Bebidas alcohólicas;49;49;100%;0;0%
+Barrios Unidos;2022p;Bebidas alcohólicas;28;28;100%;0;0%
+Teusaquillo;2022p;Bebidas alcohólicas;45;45;100%;0;0%
+Los Mártires;2022p;Bebidas alcohólicas;52;52;100%;0;0%
+Antonio Nariño;2022p;Bebidas alcohólicas;43;43;100%;0;0%
+Puente Aranda;2022p;Bebidas alcohólicas;51;51;100%;0;0%
+La Candelaria;2022p;Bebidas alcohólicas;23;23;100%;0;0%
+Rafael Uribe Uribe;2022p;Bebidas alcohólicas;50;50;100%;0;0%
+Ciudad Bolívar;2022p;Bebidas alcohólicas;39;39;100%;0;0%
+Distrito;2022p;Bebidas alcohólicas;879;877;99,80%;2;0,20%
+Usaquén;2013;Derivados cárnicos;34;22;65%;12;35%
+Chapinero;2013;Derivados cárnicos;23;18;78%;5;22%
+Santa Fe;2013;Derivados cárnicos;25;12;48%;13;52%
+San Cristóbal;2013;Derivados cárnicos;35;26;74%;9;26%
+Usme;2013;Derivados cárnicos;43;37;86%;6;14%
+Tunjuelito;2013;Derivados cárnicos;32;23;72%;9;28%
+Bosa;2013;Derivados cárnicos;36;27;75%;9;25%
+Kennedy;2013;Derivados cárnicos;32;23;72%;9;28%
+Fontibón;2013;Derivados cárnicos;49;40;82%;9;18%
+Engativá;2013;Derivados cárnicos;35;31;89%;4;11%
+Suba;2013;Derivados cárnicos;29;19;66%;10;34%
+Barrios Unidos;2013;Derivados cárnicos;29;16;55%;13;45%
+Teusaquillo;2013;Derivados cárnicos;19;12;63%;7;37%
+Los Mártires;2013;Derivados cárnicos;27;18;67%;9;33%
+Antonio Nariño;2013;Derivados cárnicos;45;35;78%;10;22%
+Puente Aranda;2013;Derivados cárnicos;28;16;57%;12;43%
+La Candelaria;2013;Derivados cárnicos;22;18;82%;4;18%
+Rafael Uribe Uribe;2013;Derivados cárnicos;35;26;74%;9;26%
+Ciudad Bolívar;2013;Derivados cárnicos;32;18;56%;14;44%
+Distrito;2013;Derivados cárnicos;610;437;72%;173;28%
+Usaquén;2014;Derivados cárnicos;16;14;88%;2;13%
+Chapinero;2014;Derivados cárnicos;10;8;80%;2;20%
+Santa Fe;2014;Derivados cárnicos;9;6;67%;3;33%
+San Cristóbal;2014;Derivados cárnicos;22;18;82%;4;18%
+Usme;2014;Derivados cárnicos;10;7;70%;3;30%
+Tunjuelito;2014;Derivados cárnicos;16;12;75%;4;25%
+Bosa;2014;Derivados cárnicos;15;13;87%;2;13%
+Kennedy;2014;Derivados cárnicos;23;21;91%;2;9%
+Fontibón;2014;Derivados cárnicos;18;16;89%;2;11%
+Engativá;2014;Derivados cárnicos;15;9;60%;6;40%
+Suba;2014;Derivados cárnicos;16;11;69%;5;31%
+Barrios Unidos;2014;Derivados cárnicos;15;14;93%;1;7%
+Teusaquillo;2014;Derivados cárnicos;17;15;88%;2;12%
+Los Mártires;2014;Derivados cárnicos;14;7;50%;7;50%
+Antonio Nariño;2014;Derivados cárnicos;18;12;67%;6;33%
+Puente Aranda;2014;Derivados cárnicos;20;14;70%;6;30%
+La Candelaria;2014;Derivados cárnicos;16;12;75%;4;25%
+Rafael Uribe Uribe;2014;Derivados cárnicos;16;14;88%;2;13%
+Ciudad Bolívar;2014;Derivados cárnicos;17;12;71%;5;29%
+Distrito;2014;Derivados cárnicos;303;235;78%;68;22%
+Usaquén;2015;Derivados cárnicos;15;14;93%;1;7%
+Chapinero;2015;Derivados cárnicos;11;6;55%;5;45%
+Santa Fe;2015;Derivados cárnicos;15;8;53%;7;47%
+San Cristóbal;2015;Derivados cárnicos;17;14;82%;3;18%
+Usme;2015;Derivados cárnicos;19;18;95%;1;5%
+Tunjuelito;2015;Derivados cárnicos;22;15;68%;7;32%
+Bosa;2015;Derivados cárnicos;20;13;65%;7;35%
+Kennedy;2015;Derivados cárnicos;17;15;88%;2;12%
+Fontibón;2015;Derivados cárnicos;19;14;74%;5;26%
+Engativá;2015;Derivados cárnicos;41;24;59%;17;41%
+Suba;2015;Derivados cárnicos;17;11;65%;6;35%
+Barrios Unidos;2015;Derivados cárnicos;26;17;65%;9;35%
+Teusaquillo;2015;Derivados cárnicos;5;3;60%;2;40%
+Los Mártires;2015;Derivados cárnicos;18;14;78%;4;22%
+Antonio Nariño;2015;Derivados cárnicos;19;12;63%;7;37%
+Puente Aranda;2015;Derivados cárnicos;24;19;79%;5;21%
+La Candelaria;2015;Derivados cárnicos;4;1;25%;3;75%
+Rafael Uribe Uribe;2015;Derivados cárnicos;14;9;64%;5;36%
+Ciudad Bolívar;2015;Derivados cárnicos;15;9;60%;6;40%
+Distrito;2015;Derivados cárnicos;338;236;70%;102;30%
+Usaquén;2016;Derivados cárnicos;21;12;57%;9;43%
+Chapinero;2016;Derivados cárnicos;9;7;78%;2;22%
+Santa Fe;2016;Derivados cárnicos;12;11;92%;1;8%
+San Cristóbal;2016;Derivados cárnicos;19;12;63%;7;37%
+Usme;2016;Derivados cárnicos;14;10;71%;4;29%
+Tunjuelito;2016;Derivados cárnicos;21;17;81%;4;19%
+Bosa;2016;Derivados cárnicos;18;14;78%;4;22%
+Kennedy;2016;Derivados cárnicos;17;13;76%;4;24%
+Fontibón;2016;Derivados cárnicos;22;17;77%;5;23%
+Engativá;2016;Derivados cárnicos;20;15;75%;5;25%
+Suba;2016;Derivados cárnicos;14;8;57%;6;43%
+Barrios Unidos;2016;Derivados cárnicos;18;12;67%;6;33%
+Teusaquillo;2016;Derivados cárnicos;9;9;100%;0;0%
+Los Mártires;2016;Derivados cárnicos;10;5;50%;5;50%
+Antonio Nariño;2016;Derivados cárnicos;14;8;57%;6;43%
+Puente Aranda;2016;Derivados cárnicos;13;11;85%;2;15%
+La Candelaria;2016;Derivados cárnicos;16;14;88%;2;13%
+Rafael Uribe Uribe;2016;Derivados cárnicos;10;5;50%;5;50%
+Ciudad Bolívar;2016;Derivados cárnicos;17;14;82%;3;18%
+Distrito;2016;Derivados cárnicos;294;214;73%;80;27%
+Usaquén;2017;Derivados cárnicos;20;14;70%;6;30%
+Chapinero;2017;Derivados cárnicos;23;19;83%;4;17%
+Santa Fe;2017;Derivados cárnicos;14;13;93%;1;7%
+San Cristóbal;2017;Derivados cárnicos;30;21;70%;9;30%
+Usme;2017;Derivados cárnicos;33;24;73%;9;27%
+Tunjuelito;2017;Derivados cárnicos;26;22;85%;4;15%
+Bosa;2017;Derivados cárnicos;16;14;88%;2;13%
+Kennedy;2017;Derivados cárnicos;38;34;89%;4;11%
+Fontibón;2017;Derivados cárnicos;26;25;96%;1;4%
+Engativá;2017;Derivados cárnicos;23;19;83%;4;17%
+Suba;2017;Derivados cárnicos;27;24;89%;3;11%
+Barrios Unidos;2017;Derivados cárnicos;25;21;84%;4;16%
+Teusaquillo;2017;Derivados cárnicos;19;17;89%;2;11%
+Los Mártires;2017;Derivados cárnicos;25;23;92%;2;8%
+Antonio Nariño;2017;Derivados cárnicos;20;13;65%;7;35%
+Puente Aranda;2017;Derivados cárnicos;13;13;100%;0;0%
+La Candelaria;2017;Derivados cárnicos;19;14;74%;5;26%
+Rafael Uribe Uribe;2017;Derivados cárnicos;23;17;74%;6;26%
+Ciudad Bolívar;2017;Derivados cárnicos;26;21;81%;5;19%
+Distrito;2017;Derivados cárnicos;446;368;83%;78;17%
+Usaquén;2018;Derivados cárnicos;15;13;87%;2;13%
+Chapinero;2018;Derivados cárnicos;21;17;81%;4;19%
+Santa Fe;2018;Derivados cárnicos;18;14;78%;4;22%
+San Cristóbal;2018;Derivados cárnicos;14;11;79%;3;21%
+Usme;2018;Derivados cárnicos;19;15;79%;4;21%
+Tunjuelito;2018;Derivados cárnicos;16;9;56%;7;44%
+Bosa;2018;Derivados cárnicos;15;12;80%;3;20%
+Kennedy;2018;Derivados cárnicos;27;21;78%;6;22%
+Fontibón;2018;Derivados cárnicos;21;14;67%;7;33%
+Engativá;2018;Derivados cárnicos;12;7;58%;5;42%
+Suba;2018;Derivados cárnicos;18;12;67%;6;33%
+Barrios Unidos;2018;Derivados cárnicos;20;14;70%;6;30%
+Teusaquillo;2018;Derivados cárnicos;18;14;78%;4;22%
+Los Mártires;2018;Derivados cárnicos;18;15;83%;3;17%
+Antonio Nariño;2018;Derivados cárnicos;14;12;86%;2;14%
+Puente Aranda;2018;Derivados cárnicos;15;9;60%;6;40%
+La Candelaria;2018;Derivados cárnicos;17;14;82%;3;18%
+Rafael Uribe Uribe;2018;Derivados cárnicos;15;14;93%;1;7%
+Ciudad Bolívar;2018;Derivados cárnicos;17;14;82%;3;18%
+Distrito;2018;Derivados cárnicos;330;251;76%;79;24%
+Usaquén;2019;Derivados cárnicos;16;13;81%;3;19%
+Chapinero;2019;Derivados cárnicos;16;16;100%;;0%
+Santa Fe;2019;Derivados cárnicos;12;10;83%;2;17%
+San Cristóbal;2019;Derivados cárnicos;16;12;75%;4;25%
+Usme;2019;Derivados cárnicos;20;17;85%;3;15%
+Tunjuelito;2019;Derivados cárnicos;15;13;87%;2;13%
+Bosa;2019;Derivados cárnicos;26;23;88%;3;12%
+Kennedy;2019;Derivados cárnicos;35;26;74%;9;26%
+Fontibón;2019;Derivados cárnicos;14;11;79%;3;21%
+Engativá;2019;Derivados cárnicos;14;11;79%;3;21%
+Suba;2019;Derivados cárnicos;12;10;83%;2;17%
+Barrios Unidos;2019;Derivados cárnicos;6;4;67%;2;33%
+Teusaquillo;2019;Derivados cárnicos;9;8;89%;1;11%
+Los Mártires;2019;Derivados cárnicos;12;9;75%;3;25%
+Antonio Nariño;2019;Derivados cárnicos;8;5;63%;3;38%
+Puente Aranda;2019;Derivados cárnicos;24;17;71%;7;29%
+La Candelaria;2019;Derivados cárnicos;7;6;86%;1;14%
+Rafael Uribe Uribe;2019;Derivados cárnicos;12;6;50%;6;50%
+Ciudad Bolívar;2019;Derivados cárnicos;19;13;68%;6;32%
+Distrito;2019;Derivados cárnicos;293;230;78%;63;22%
+Usaquén;2020;Derivados cárnicos;9;8;89%;1;11%
+Chapinero;2020;Derivados cárnicos;4;3;75%;1;25%
+Santa Fe;2020;Derivados cárnicos;5;3;60%;2;40%
+San Cristóbal;2020;Derivados cárnicos;5;5;100%;0;0%
+Usme;2020;Derivados cárnicos;9;7;78%;2;22%
+Tunjuelito;2020;Derivados cárnicos;14;11;79%;3;21%
+Bosa;2020;Derivados cárnicos;7;5;71%;2;29%
+Kennedy;2020;Derivados cárnicos;6;4;67%;2;33%
+Fontibón;2020;Derivados cárnicos;4;3;75%;1;25%
+Engativá;2020;Derivados cárnicos;11;7;64%;4;36%
+Suba;2020;Derivados cárnicos;7;3;43%;4;57%
+Barrios Unidos;2020;Derivados cárnicos;8;5;63%;3;38%
+Teusaquillo;2020;Derivados cárnicos;5;3;60%;2;40%
+Los Mártires;2020;Derivados cárnicos;9;9;100%;0;0%
+Antonio Nariño;2020;Derivados cárnicos;4;4;100%;0;0%
+Puente Aranda;2020;Derivados cárnicos;4;4;100%;0;0%
+La Candelaria;2020;Derivados cárnicos;6;6;100%;0;0%
+Rafael Uribe Uribe;2020;Derivados cárnicos;8;6;75%;2;25%
+Ciudad Bolívar;2020;Derivados cárnicos;6;5;83%;1;17%
+Distrito;2020;Derivados cárnicos;131;101;77%;30;23%
+Usaquén;2021;Derivados cárnicos;11;7;64%;4;36%
+Chapinero;2021;Derivados cárnicos;21;16;76%;5;24%
+Santa Fe;2021;Derivados cárnicos;19;14;74%;5;26%
+San Cristóbal;2021;Derivados cárnicos;11;6;55%;5;45%
+Usme;2021;Derivados cárnicos;19;12;63%;7;37%
+Tunjuelito;2021;Derivados cárnicos;22;17;77%;5;23%
+Bosa;2021;Derivados cárnicos;21;19;90%;2;10%
+Kennedy;2021;Derivados cárnicos;20;13;65%;7;35%
+Fontibón;2021;Derivados cárnicos;12;9;75%;3;25%
+Engativá;2021;Derivados cárnicos;22;14;64%;8;36%
+Suba;2021;Derivados cárnicos;18;11;61%;7;39%
+Barrios Unidos;2021;Derivados cárnicos;18;15;83%;3;17%
+Teusaquillo;2021;Derivados cárnicos;20;11;55%;9;45%
+Los Mártires;2021;Derivados cárnicos;10;7;70%;3;30%
+Antonio Nariño;2021;Derivados cárnicos;18;13;72%;5;28%
+Puente Aranda;2021;Derivados cárnicos;21;14;67%;7;33%
+La Candelaria;2021;Derivados cárnicos;9;6;67%;3;33%
+Rafael Uribe Uribe;2021;Derivados cárnicos;25;18;72%;7;28%
+Ciudad Bolívar;2021;Derivados cárnicos;20;13;65%;7;35%
+Distrito;2021;Derivados cárnicos;337;235;70%;102;30%
+Usaquén;2022p;Derivados cárnicos;31;22;71%;9;29%
+Chapinero;2022p;Derivados cárnicos;35;26;74%;9;26%
+Santa Fe;2022p;Derivados cárnicos;36;26;72%;10;28%
+San Cristóbal;2022p;Derivados cárnicos;28;21;75%;7;25%
+Usme;2022p;Derivados cárnicos;26;21;81%;5;19%
+Tunjuelito;2022p;Derivados cárnicos;24;17;71%;7;29%
+Bosa;2022p;Derivados cárnicos;25;16;64%;9;36%
+Kennedy;2022p;Derivados cárnicos;39;26;67%;13;33%
+Fontibón;2022p;Derivados cárnicos;32;26;81%;6;19%
+Engativá;2022p;Derivados cárnicos;33;22;67%;11;33%
+Suba;2022p;Derivados cárnicos;23;17;74%;6;26%
+Barrios Unidos;2022p;Derivados cárnicos;17;14;82%;3;18%
+Teusaquillo;2022p;Derivados cárnicos;31;21;68%;10;32%
+Los Mártires;2022p;Derivados cárnicos;19;15;79%;4;21%
+Antonio Nariño;2022p;Derivados cárnicos;24;16;67%;8;33%
+Puente Aranda;2022p;Derivados cárnicos;28;19;68%;9;32%
+La Candelaria;2022p;Derivados cárnicos;13;11;85%;2;15%
+Rafael Uribe Uribe;2022p;Derivados cárnicos;33;24;73%;9;27%
+Ciudad Bolívar;2022p;Derivados cárnicos;29;21;72%;8;28%
+Distrito;2022p;Derivados cárnicos;526;381;72%;145;28%
+Usaquén;2013;Derivados lácteos;20;15;75%;5;25%
+Chapinero;2013;Derivados lácteos;16;8;50%;8;50%
+Santa Fe;2013;Derivados lácteos;21;15;71%;6;29%
+San Cristóbal;2013;Derivados lácteos;28;15;54%;13;46%
+Usme;2013;Derivados lácteos;31;16;52%;15;48%
+Tunjuelito;2013;Derivados lácteos;25;9;36%;16;64%
+Bosa;2013;Derivados lácteos;26;11;42%;15;58%
+Kennedy;2013;Derivados lácteos;31;16;52%;15;48%
+Fontibón;2013;Derivados lácteos;44;21;48%;23;52%
+Engativá;2013;Derivados lácteos;40;23;58%;17;43%
+Suba;2013;Derivados lácteos;22;11;50%;11;50%
+Barrios Unidos;2013;Derivados lácteos;11;3;27%;8;73%
+Teusaquillo;2013;Derivados lácteos;19;7;37%;12;63%
+Los Mártires;2013;Derivados lácteos;20;5;25%;15;75%
+Antonio Nariño;2013;Derivados lácteos;32;6;19%;26;81%
+Puente Aranda;2013;Derivados lácteos;38;21;55%;17;45%
+La Candelaria;2013;Derivados lácteos;31;24;77%;7;23%
+Rafael Uribe Uribe;2013;Derivados lácteos;33;12;36%;21;64%
+Ciudad Bolívar;2013;Derivados lácteos;28;11;39%;17;61%
+Sumapaz;2013;Derivados lácteos;9;8;89%;1;11%
+Distrito;2013;Derivados lácteos;525;257;49%;268;51%
+Usaquén;2014;Derivados lácteos;14;9;64%;5;36%
+Chapinero;2014;Derivados lácteos;12;6;50%;6;50%
+Santa Fe;2014;Derivados lácteos;12;6;50%;6;50%
+San Cristóbal;2014;Derivados lácteos;23;16;70%;7;30%
+Usme;2014;Derivados lácteos;15;4;27%;11;73%
+Tunjuelito;2014;Derivados lácteos;19;9;47%;10;53%
+Bosa;2014;Derivados lácteos;12;6;50%;6;50%
+Kennedy;2014;Derivados lácteos;28;15;54%;13;46%
+Fontibón;2014;Derivados lácteos;21;12;57%;9;43%
+Engativá;2014;Derivados lácteos;27;14;52%;13;48%
+Suba;2014;Derivados lácteos;14;6;43%;8;57%
+Barrios Unidos;2014;Derivados lácteos;16;10;63%;6;38%
+Teusaquillo;2014;Derivados lácteos;10;5;50%;5;50%
+Los Mártires;2014;Derivados lácteos;16;5;31%;11;69%
+Antonio Nariño;2014;Derivados lácteos;19;8;42%;11;58%
+Puente Aranda;2014;Derivados lácteos;23;19;83%;4;17%
+La Candelaria;2014;Derivados lácteos;15;13;87%;2;13%
+Rafael Uribe Uribe;2014;Derivados lácteos;16;10;63%;6;38%
+Ciudad Bolívar;2014;Derivados lácteos;14;7;50%;7;50%
+Sumapaz;2014;Derivados lácteos;3;2;67%;1;33%
+Distrito;2014;Derivados lácteos;329;182;55%;147;45%
+Usaquén;2015;Derivados lácteos;22;14;64%;8;36%
+Chapinero;2015;Derivados lácteos;19;10;53%;9;47%
+Santa Fe;2015;Derivados lácteos;18;13;72%;5;28%
+San Cristóbal;2015;Derivados lácteos;26;12;46%;14;54%
+Usme;2015;Derivados lácteos;26;12;46%;14;54%
+Tunjuelito;2015;Derivados lácteos;25;14;56%;11;44%
+Bosa;2015;Derivados lácteos;25;15;60%;10;40%
+Kennedy;2015;Derivados lácteos;45;27;60%;18;40%
+Fontibón;2015;Derivados lácteos;24;11;46%;13;54%
+Engativá;2015;Derivados lácteos;33;17;52%;16;48%
+Suba;2015;Derivados lácteos;15;10;67%;5;33%
+Barrios Unidos;2015;Derivados lácteos;19;13;68%;6;32%
+Teusaquillo;2015;Derivados lácteos;9;4;44%;5;56%
+Los Mártires;2015;Derivados lácteos;20;7;35%;13;65%
+Antonio Nariño;2015;Derivados lácteos;24;14;58%;10;42%
+Puente Aranda;2015;Derivados lácteos;36;26;72%;10;28%
+La Candelaria;2015;Derivados lácteos;16;9;56%;7;44%
+Rafael Uribe Uribe;2015;Derivados lácteos;31;14;45%;17;55%
+Ciudad Bolívar;2015;Derivados lácteos;18;9;50%;9;50%
+Distrito;2015;Derivados lácteos;451;251;56%;200;44%
+Usaquén;2016;Derivados lácteos;31;23;74%;8;26%
+Chapinero;2016;Derivados lácteos;13;7;54%;6;46%
+Santa Fe;2016;Derivados lácteos;17;9;53%;8;47%
+San Cristóbal;2016;Derivados lácteos;27;11;41%;16;59%
+Usme;2016;Derivados lácteos;14;6;43%;8;57%
+Tunjuelito;2016;Derivados lácteos;27;8;30%;19;70%
+Bosa;2016;Derivados lácteos;14;5;36%;9;64%
+Kennedy;2016;Derivados lácteos;19;11;58%;8;42%
+Fontibón;2016;Derivados lácteos;44;31;70%;13;30%
+Engativá;2016;Derivados lácteos;42;30;71%;12;29%
+Suba;2016;Derivados lácteos;21;10;48%;11;52%
+Barrios Unidos;2016;Derivados lácteos;20;17;85%;3;15%
+Teusaquillo;2016;Derivados lácteos;7;3;43%;4;57%
+Los Mártires;2016;Derivados lácteos;16;11;69%;5;31%
+Antonio Nariño;2016;Derivados lácteos;15;8;53%;7;47%
+Puente Aranda;2016;Derivados lácteos;36;28;78%;8;22%
+La Candelaria;2016;Derivados lácteos;14;10;71%;4;29%
+Rafael Uribe Uribe;2016;Derivados lácteos;14;5;36%;9;64%
+Ciudad Bolívar;2016;Derivados lácteos;17;3;18%;14;82%
+Distrito;2016;Derivados lácteos;408;236;58%;172;42%
+Usaquén;2017;Derivados lácteos;27;15;56%;12;44%
+Chapinero;2017;Derivados lácteos;26;16;62%;10;38%
+Santa Fe;2017;Derivados lácteos;21;14;67%;7;33%
+San Cristóbal;2017;Derivados lácteos;32;21;66%;11;34%
+Usme;2017;Derivados lácteos;34;17;50%;17;50%
+Tunjuelito;2017;Derivados lácteos;37;24;65%;13;35%
+Bosa;2017;Derivados lácteos;18;7;39%;11;61%
+Kennedy;2017;Derivados lácteos;44;22;50%;22;50%
+Fontibón;2017;Derivados lácteos;26;16;62%;10;38%
+Engativá;2017;Derivados lácteos;34;22;65%;12;35%
+Suba;2017;Derivados lácteos;29;18;62%;11;38%
+Barrios Unidos;2017;Derivados lácteos;32;22;69%;10;31%
+Teusaquillo;2017;Derivados lácteos;26;19;73%;7;27%
+Los Mártires;2017;Derivados lácteos;32;15;47%;17;53%
+Antonio Nariño;2017;Derivados lácteos;26;18;69%;8;31%
+Puente Aranda;2017;Derivados lácteos;20;15;75%;5;25%
+La Candelaria;2017;Derivados lácteos;23;16;70%;7;30%
+Rafael Uribe Uribe;2017;Derivados lácteos;29;17;59%;12;41%
+Ciudad Bolívar;2017;Derivados lácteos;35;24;69%;11;31%
+Distrito;2017;Derivados lácteos;551;338;61%;213;39%
+Usaquén;2018;Derivados lácteos;26;16;62%;10;38%
+Chapinero;2018;Derivados lácteos;33;26;79%;7;21%
+Santa Fe;2018;Derivados lácteos;34;25;74%;9;26%
+San Cristóbal;2018;Derivados lácteos;31;17;55%;14;45%
+Usme;2018;Derivados lácteos;30;20;67%;10;33%
+Tunjuelito;2018;Derivados lácteos;28;20;71%;8;29%
+Bosa;2018;Derivados lácteos;28;16;57%;12;43%
+Kennedy;2018;Derivados lácteos;40;22;55%;18;45%
+Fontibón;2018;Derivados lácteos;36;26;72%;10;28%
+Engativá;2018;Derivados lácteos;29;22;76%;7;24%
+Suba;2018;Derivados lácteos;34;22;65%;12;35%
+Barrios Unidos;2018;Derivados lácteos;34;19;56%;15;44%
+Teusaquillo;2018;Derivados lácteos;29;17;59%;12;41%
+Los Mártires;2018;Derivados lácteos;33;16;48%;17;52%
+Antonio Nariño;2018;Derivados lácteos;25;12;48%;13;52%
+Puente Aranda;2018;Derivados lácteos;32;22;69%;10;31%
+La Candelaria;2018;Derivados lácteos;27;19;70%;8;30%
+Rafael Uribe Uribe;2018;Derivados lácteos;34;28;82%;6;18%
+Ciudad Bolívar;2018;Derivados lácteos;29;20;69%;9;31%
+Distrito;2018;Derivados lácteos;592;385;65%;207;35%
+Usaquén;2019;Derivados lácteos;24;14;58%;10;42%
+Chapinero;2019;Derivados lácteos;31;13;42%;18;58%
+Santa Fe;2019;Derivados lácteos;16;8;50%;8;50%
+San Cristóbal;2019;Derivados lácteos;24;16;67%;8;33%
+Usme;2019;Derivados lácteos;31;15;48%;16;52%
+Tunjuelito;2019;Derivados lácteos;28;14;50%;14;50%
+Bosa;2019;Derivados lácteos;24;10;42%;14;58%
+Kennedy;2019;Derivados lácteos;30;14;47%;16;53%
+Fontibón;2019;Derivados lácteos;34;16;47%;18;53%
+Engativá;2019;Derivados lácteos;16;14;88%;2;13%
+Suba;2019;Derivados lácteos;29;9;31%;20;69%
+Barrios Unidos;2019;Derivados lácteos;23;9;39%;14;61%
+Teusaquillo;2019;Derivados lácteos;23;7;30%;16;70%
+Los Mártires;2019;Derivados lácteos;17;9;53%;8;47%
+Antonio Nariño;2019;Derivados lácteos;16;8;50%;8;50%
+Puente Aranda;2019;Derivados lácteos;20;12;60%;8;40%
+La Candelaria;2019;Derivados lácteos;17;13;76%;4;24%
+Rafael Uribe Uribe;2019;Derivados lácteos;29;13;45%;16;55%
+Ciudad Bolívar;2019;Derivados lácteos;28;10;36%;18;64%
+Distrito;2019;Derivados lácteos;460;224;49%;236;51%
+Usaquén;2020;Derivados lácteos;11;9;82%;2;18%
+Chapinero;2020;Derivados lácteos;9;6;67%;3;33%
+Santa Fe;2020;Derivados lácteos;6;6;100%;0;0%
+San Cristóbal;2020;Derivados lácteos;6;4;67%;2;33%
+Usme;2020;Derivados lácteos;10;7;70%;3;30%
+Tunjuelito;2020;Derivados lácteos;10;6;60%;4;40%
+Bosa;2020;Derivados lácteos;9;4;44%;5;56%
+Kennedy;2020;Derivados lácteos;9;4;44%;5;56%
+Fontibón;2020;Derivados lácteos;6;4;67%;2;33%
+Engativá;2020;Derivados lácteos;12;7;58%;5;42%
+Suba;2020;Derivados lácteos;8;5;63%;3;38%
+Barrios Unidos;2020;Derivados lácteos;12;9;75%;3;25%
+Teusaquillo;2020;Derivados lácteos;10;4;40%;6;60%
+Los Mártires;2020;Derivados lácteos;10;6;60%;4;40%
+Antonio Nariño;2020;Derivados lácteos;6;3;50%;3;50%
+Puente Aranda;2020;Derivados lácteos;8;5;63%;3;38%
+La Candelaria;2020;Derivados lácteos;7;4;57%;3;43%
+Rafael Uribe Uribe;2020;Derivados lácteos;8;5;63%;3;38%
+Ciudad Bolívar;2020;Derivados lácteos;17;9;53%;8;47%
+Distrito;2020;Derivados lácteos;174;107;61%;67;39%
+Usaquén;2021;Derivados lácteos;12;8;67%;4;33%
+Chapinero;2021;Derivados lácteos;22;16;73%;6;27%
+Santa Fe;2021;Derivados lácteos;20;9;45%;11;55%
+San Cristóbal;2021;Derivados lácteos;13;8;62%;5;38%
+Usme;2021;Derivados lácteos;23;14;61%;9;39%
+Tunjuelito;2021;Derivados lácteos;18;12;67%;6;33%
+Bosa;2021;Derivados lácteos;23;12;52%;11;48%
+Kennedy;2021;Derivados lácteos;23;16;70%;7;30%
+Fontibón;2021;Derivados lácteos;12;7;58%;5;42%
+Engativá;2021;Derivados lácteos;28;12;43%;16;57%
+Suba;2021;Derivados lácteos;19;9;47%;10;53%
+Barrios Unidos;2021;Derivados lácteos;15;11;73%;4;27%
+Teusaquillo;2021;Derivados lácteos;20;14;70%;6;30%
+Los Mártires;2021;Derivados lácteos;16;9;56%;7;44%
+Antonio Nariño;2021;Derivados lácteos;19;14;74%;5;26%
+Puente Aranda;2021;Derivados lácteos;23;12;52%;11;48%
+La Candelaria;2021;Derivados lácteos;10;7;70%;3;30%
+Rafael Uribe Uribe;2021;Derivados lácteos;24;11;46%;13;54%
+Ciudad Bolívar;2021;Derivados lácteos;20;12;60%;8;40%
+Distrito;2021;Derivados lácteos;360;213;59%;147;41%
+Usaquén;2022p;Derivados lácteos;31;18;58,10%;13;41,90%
+Chapinero;2022p;Derivados lácteos;36;20;55,60%;16;44,40%
+Santa Fe;2022p;Derivados lácteos;34;18;52,90%;16;47,10%
+San Cristóbal;2022p;Derivados lácteos;31;17;54,80%;14;45,20%
+Usme;2022p;Derivados lácteos;29;12;41,40%;17;58,60%
+Tunjuelito;2022p;Derivados lácteos;31;16;51,60%;15;48,40%
+Bosa;2022p;Derivados lácteos;27;13;48,10%;14;51,90%
+Kennedy;2022p;Derivados lácteos;40;23;57,50%;17;42,50%
+Fontibón;2022p;Derivados lácteos;33;11;33,30%;22;66,70%
+Engativá;2022p;Derivados lácteos;38;21;55,30%;17;44,70%
+Suba;2022p;Derivados lácteos;21;14;66,70%;7;33,30%
+Barrios Unidos;2022p;Derivados lácteos;18;11;61,10%;7;38,90%
+Teusaquillo;2022p;Derivados lácteos;31;22;71,00%;9;29,00%
+Los Mártires;2022p;Derivados lácteos;29;13;44,80%;16;55,20%
+Antonio Nariño;2022p;Derivados lácteos;27;19;70,40%;8;29,60%
+Puente Aranda;2022p;Derivados lácteos;30;15;50,00%;15;50,00%
+La Candelaria;2022p;Derivados lácteos;13;8;61,50%;5;38,50%
+Rafael Uribe Uribe;2022p;Derivados lácteos;36;19;52,80%;17;47,20%
+Ciudad Bolívar;2022p;Derivados lácteos;28;15;53,60%;13;46,40%
+Distrito;2022p;Derivados lácteos;563;305;54,20%;258;45,80%
+Usaquén;2013;Harina de trigo;24;23;96%;1;4%
+Chapinero;2013;Harina de trigo;21;20;95%;1;5%
+Santa Fe;2013;Harina de trigo;21;20;95%;1;5%
+San Cristóbal;2013;Harina de trigo;21;21;100%;0;0%
+Usme;2013;Harina de trigo;29;27;93%;2;7%
+Tunjuelito;2013;Harina de trigo;17;15;88%;2;12%
+Bosa;2013;Harina de trigo;22;21;95%;1;5%
+Kennedy;2013;Harina de trigo;21;18;86%;3;14%
+Fontibón;2013;Harina de trigo;39;38;97%;1;3%
+Engativá;2013;Harina de trigo;20;20;100%;0;0%
+Suba;2013;Harina de trigo;23;23;100%;0;0%
+Barrios Unidos;2013;Harina de trigo;17;17;100%;0;0%
+Teusaquillo;2013;Harina de trigo;8;8;100%;0;0%
+Los Mártires;2013;Harina de trigo;24;23;96%;1;4%
+Antonio Nariño;2013;Harina de trigo;36;30;83%;6;17%
+Puente Aranda;2013;Harina de trigo;20;19;95%;1;5%
+La Candelaria;2013;Harina de trigo;11;10;91%;1;9%
+Rafael Uribe Uribe;2013;Harina de trigo;23;21;91%;2;9%
+Ciudad Bolívar;2013;Harina de trigo;28;25;89%;3;11%
+Distrito;2013;Harina de trigo;425;399;94%;26;6%
+Usaquén;2014;Harina de trigo;19;18;95%;1;5%
+Chapinero;2014;Harina de trigo;13;12;92%;1;8%
+Santa Fe;2014;Harina de trigo;15;14;93%;1;7%
+San Cristóbal;2014;Harina de trigo;15;14;93%;1;7%
+Usme;2014;Harina de trigo;24;21;88%;3;13%
+Tunjuelito;2014;Harina de trigo;13;12;92%;1;8%
+Bosa;2014;Harina de trigo;27;24;89%;3;11%
+Kennedy;2014;Harina de trigo;25;24;96%;1;4%
+Fontibón;2014;Harina de trigo;13;11;85%;2;15%
+Engativá;2014;Harina de trigo;10;9;90%;1;10%
+Suba;2014;Harina de trigo;11;10;91%;1;9%
+Barrios Unidos;2014;Harina de trigo;15;14;93%;1;7%
+Teusaquillo;2014;Harina de trigo;14;13;93%;1;7%
+Los Mártires;2014;Harina de trigo;13;9;69%;4;31%
+Antonio Nariño;2014;Harina de trigo;19;18;95%;1;5%
+Puente Aranda;2014;Harina de trigo;14;14;100%;0;0%
+La Candelaria;2014;Harina de trigo;14;14;100%;0;0%
+Rafael Uribe Uribe;2014;Harina de trigo;14;13;93%;1;7%
+Ciudad Bolívar;2014;Harina de trigo;22;20;91%;2;9%
+Distrito;2014;Harina de trigo;312;286;92%;26;8%
+Usaquén;2015;Harina de trigo;9;8;89%;1;11%
+Chapinero;2015;Harina de trigo;3;3;100%;0;0%
+Santa Fe;2015;Harina de trigo;4;4;100%;0;0%
+San Cristóbal;2015;Harina de trigo;9;9;100%;0;0%
+Usme;2015;Harina de trigo;9;9;100%;0;0%
+Tunjuelito;2015;Harina de trigo;8;8;100%;0;0%
+Bosa;2015;Harina de trigo;9;9;100%;0;0%
+Kennedy;2015;Harina de trigo;11;11;100%;0;0%
+Fontibón;2015;Harina de trigo;10;10;100%;0;0%
+Engativá;2015;Harina de trigo;10;10;100%;0;0%
+Suba;2015;Harina de trigo;10;10;100%;0;0%
+Barrios Unidos;2015;Harina de trigo;14;14;100%;0;0%
+Teusaquillo;2015;Harina de trigo;3;3;100%;0;0%
+Los Mártires;2015;Harina de trigo;6;6;100%;0;0%
+Antonio Nariño;2015;Harina de trigo;7;7;100%;0;0%
+Puente Aranda;2015;Harina de trigo;11;11;100%;0;0%
+La Candelaria;2015;Harina de trigo;4;4;100%;0;0%
+Rafael Uribe Uribe;2015;Harina de trigo;10;10;100%;0;0%
+Ciudad Bolívar;2015;Harina de trigo;6;6;100%;0;0%
+Distrito;2015;Harina de trigo;153;152;99%;1;1%
+Usaquén;2016;Harina de trigo;10;10;100%;0;0%
+Chapinero;2016;Harina de trigo;1;1;100%;0;0%
+Santa Fe;2016;Harina de trigo;5;5;100%;0;0%
+San Cristóbal;2016;Harina de trigo;9;9;100%;0;0%
+Usme;2016;Harina de trigo;10;10;100%;0;0%
+Tunjuelito;2016;Harina de trigo;10;10;100%;0;0%
+Bosa;2016;Harina de trigo;8;7;88%;1;13%
+Kennedy;2016;Harina de trigo;10;10;100%;0;0%
+Fontibón;2016;Harina de trigo;10;10;100%;0;0%
+Engativá;2016;Harina de trigo;8;8;100%;0;0%
+Suba;2016;Harina de trigo;10;10;100%;0;0%
+Barrios Unidos;2016;Harina de trigo;19;19;100%;0;0%
+Teusaquillo;2016;Harina de trigo;2;2;100%;0;0%
+Los Mártires;2016;Harina de trigo;8;8;100%;0;0%
+Antonio Nariño;2016;Harina de trigo;7;7;100%;0;0%
+Puente Aranda;2016;Harina de trigo;9;9;100%;0;0%
+La Candelaria;2016;Harina de trigo;4;4;100%;0;0%
+Rafael Uribe Uribe;2016;Harina de trigo;9;9;100%;0;0%
+Ciudad Bolívar;2016;Harina de trigo;9;9;100%;0;0%
+Distrito;2016;Harina de trigo;158;157;99%;1;1%
+Usaquén;2017;Harina de trigo;19;19;100%;0;0%
+Chapinero;2017;Harina de trigo;14;13;93%;1;7%
+Santa Fe;2017;Harina de trigo;16;16;100%;0;0%
+San Cristóbal;2017;Harina de trigo;16;16;100%;0;0%
+Usme;2017;Harina de trigo;18;17;94%;1;6%
+Tunjuelito;2017;Harina de trigo;20;20;100%;0;0%
+Bosa;2017;Harina de trigo;18;16;89%;2;11%
+Kennedy;2017;Harina de trigo;30;29;97%;1;3%
+Fontibón;2017;Harina de trigo;20;20;100%;0;0%
+Engativá;2017;Harina de trigo;20;20;100%;0;0%
+Suba;2017;Harina de trigo;18;18;100%;0;0%
+Barrios Unidos;2017;Harina de trigo;15;14;93%;1;7%
+Teusaquillo;2017;Harina de trigo;12;12;100%;0;0%
+Los Mártires;2017;Harina de trigo;16;16;100%;0;0%
+Antonio Nariño;2017;Harina de trigo;15;15;100%;0;0%
+Puente Aranda;2017;Harina de trigo;15;15;100%;0;0%
+La Candelaria;2017;Harina de trigo;17;15;88%;2;12%
+Rafael Uribe Uribe;2017;Harina de trigo;19;19;100%;0;0%
+Ciudad Bolívar;2017;Harina de trigo;17;15;88%;2;12%
+Distrito;2017;Harina de trigo;335;325;97%;10;3%
+Usaquén;2018;Harina de trigo;13;12;92%;1;8%
+Chapinero;2018;Harina de trigo;15;14;93%;1;7%
+Santa Fe;2018;Harina de trigo;15;13;87%;2;13%
+San Cristóbal;2018;Harina de trigo;12;10;83%;2;17%
+Usme;2018;Harina de trigo;14;9;64%;5;36%
+Tunjuelito;2018;Harina de trigo;16;14;88%;2;13%
+Bosa;2018;Harina de trigo;14;11;79%;3;21%
+Kennedy;2018;Harina de trigo;17;16;94%;1;6%
+Fontibón;2018;Harina de trigo;14;13;93%;1;7%
+Engativá;2018;Harina de trigo;13;12;92%;1;8%
+Suba;2018;Harina de trigo;14;10;71%;4;29%
+Barrios Unidos;2018;Harina de trigo;17;16;94%;1;6%
+Teusaquillo;2018;Harina de trigo;13;11;85%;2;15%
+Los Mártires;2018;Harina de trigo;12;10;83%;2;17%
+Antonio Nariño;2018;Harina de trigo;14;13;93%;1;7%
+Puente Aranda;2018;Harina de trigo;14;11;79%;3;21%
+La Candelaria;2018;Harina de trigo;11;9;82%;2;18%
+Rafael Uribe Uribe;2018;Harina de trigo;15;13;87%;2;13%
+Ciudad Bolívar;2018;Harina de trigo;14;10;71%;4;29%
+Distrito;2018;Harina de trigo;267;227;85%;40;15%
+Usaquén;2019;Harina de trigo;10;10;100%;1;10%
+Chapinero;2019;Harina de trigo;12;12;100%;0;0%
+Santa Fe;2019;Harina de trigo;9;9;100%;0;0%
+San Cristóbal;2019;Harina de trigo;11;11;100%;0;0%
+Usme;2019;Harina de trigo;12;12;100%;0;0%
+Tunjuelito;2019;Harina de trigo;10;10;100%;0;0%
+Bosa;2019;Harina de trigo;11;11;100%;0;0%
+Kennedy;2019;Harina de trigo;13;13;100%;0;0%
+Fontibón;2019;Harina de trigo;12;12;100%;0;0%
+Engativá;2019;Harina de trigo;11;11;100%;0;0%
+Suba;2019;Harina de trigo;10;10;100%;0;0%
+Barrios Unidos;2019;Harina de trigo;10;10;100%;0;0%
+Teusaquillo;2019;Harina de trigo;12;12;100%;0;0%
+Los Mártires;2019;Harina de trigo;9;9;100%;0;0%
+Antonio Nariño;2019;Harina de trigo;10;10;100%;0;0%
+Puente Aranda;2019;Harina de trigo;10;10;100%;0;0%
+La Candelaria;2019;Harina de trigo;11;11;100%;0;0%
+Rafael Uribe Uribe;2019;Harina de trigo;10;10;100%;0;0%
+Ciudad Bolívar;2019;Harina de trigo;10;10;100%;0;0%
+Distrito;2019;Harina de trigo;203;203;100%;0;0%
+Usaquén;2020;Harina de trigo;5;4;80%;1;20%
+Chapinero;2020;Harina de trigo;4;4;100%;0;0%
+Santa Fe;2020;Harina de trigo;1;1;100%;0;0%
+San Cristóbal;2020;Harina de trigo;3;3;100%;0;0%
+Usme;2020;Harina de trigo;8;7;88%;1;13%
+Tunjuelito;2020;Harina de trigo;5;5;100%;0;0%
+Bosa;2020;Harina de trigo;5;5;100%;0;0%
+Kennedy;2020;Harina de trigo;5;5;100%;0;0%
+Fontibón;2020;Harina de trigo;3;3;100%;0;0%
+Engativá;2020;Harina de trigo;4;4;100%;0;0%
+Suba;2020;Harina de trigo;2;2;100%;0;0%
+Barrios Unidos;2020;Harina de trigo;4;4;100%;0;0%
+Teusaquillo;2020;Harina de trigo;4;4;100%;0;0%
+Los Mártires;2020;Harina de trigo;7;7;100%;0;0%
+Antonio Nariño;2020;Harina de trigo;3;3;100%;0;0%
+Puente Aranda;2020;Harina de trigo;4;4;100%;0;0%
+La Candelaria;2020;Harina de trigo;3;3;100%;0;0%
+Rafael Uribe Uribe;2020;Harina de trigo;6;6;100%;0;0%
+Ciudad Bolívar;2020;Harina de trigo;5;5;100%;0;0%
+Distrito;2020;Harina de trigo;81;79;98%;2;2%
+Usaquén;2021;Harina de trigo;6;6;100%;0;0%
+Chapinero;2021;Harina de trigo;11;11;100%;0;0%
+Santa Fe;2021;Harina de trigo;10;10;100%;0;0%
+San Cristóbal;2021;Harina de trigo;7;7;100%;0;0%
+Usme;2021;Harina de trigo;10;10;100%;0;0%
+Tunjuelito;2021;Harina de trigo;10;10;100%;0;0%
+Bosa;2021;Harina de trigo;12;12;100%;0;0%
+Kennedy;2021;Harina de trigo;10;10;100%;0;0%
+Fontibón;2021;Harina de trigo;7;7;100%;0;0%
+Engativá;2021;Harina de trigo;12;12;100%;0;0%
+Suba;2021;Harina de trigo;8;8;100%;0;0%
+Barrios Unidos;2021;Harina de trigo;7;7;100%;0;0%
+Teusaquillo;2021;Harina de trigo;10;10;100%;0;0%
+Los Mártires;2021;Harina de trigo;7;7;100%;0;0%
+Antonio Nariño;2021;Harina de trigo;10;10;100%;0;0%
+Puente Aranda;2021;Harina de trigo;13;13;100%;0;0%
+La Candelaria;2021;Harina de trigo;6;6;100%;0;0%
+Rafael Uribe Uribe;2021;Harina de trigo;12;12;100%;0;0%
+Ciudad Bolívar;2021;Harina de trigo;13;13;100%;0;0%
+Distrito;2021;Harina de trigo;181;181;100%;0;0%
+Usaquén;2022p;Harina de trigo;20;20;100%;0;0,00%
+Chapinero;2022p;Harina de trigo;22;20;90,90%;2;10,00%
+Santa Fe;2022p;Harina de trigo;23;23;100%;0;0,00%
+San Cristóbal;2022p;Harina de trigo;25;25;100%;0;0,00%
+Usme;2022p;Harina de trigo;19;19;100%;0;0,00%
+Tunjuelito;2022p;Harina de trigo;17;17;100%;0;0,00%
+Bosa;2022p;Harina de trigo;15;15;100%;0;0,00%
+Kennedy;2022p;Harina de trigo;20;20;100%;0;0,00%
+Fontibón;2022p;Harina de trigo;22;22;100%;0;0,00%
+Engativá;2022p;Harina de trigo;23;23;100%;0;0,00%
+Suba;2022p;Harina de trigo;21;21;100%;0;0,00%
+Barrios Unidos;2022p;Harina de trigo;18;17;94%;1;5,90%
+Teusaquillo;2022p;Harina de trigo;19;19;100%;0;0,00%
+Los Mártires;2022p;Harina de trigo;23;23;100%;0;0,00%
+Antonio Nariño;2022p;Harina de trigo;17;17;100%;0;0,00%
+Puente Aranda;2022p;Harina de trigo;23;23;100%;0;0,00%
+La Candelaria;2022p;Harina de trigo;9;9;100%;0;0,00%
+Rafael Uribe Uribe;2022p;Harina de trigo;24;24;100%;0;0,00%
+Ciudad Bolívar;2022p;Harina de trigo;20;20;100%;0;0,00%
+Distrito;2022p;Harina de trigo;380;377;99%;3;0,80%
+Usaquén;2013;Leche higienizada;53;36;68%;17;32%
+Chapinero;2013;Leche higienizada;8;3;38%;5;63%
+Santa Fe;2013;Leche higienizada;5;1;20%;4;80%
+San Cristóbal;2013;Leche higienizada;21;14;67%;7;33%
+Tunjuelito;2013;Leche higienizada;2;1;50%;1;50%
+Bosa;2013;Leche higienizada;15;4;27%;11;73%
+Kennedy;2013;Leche higienizada;234;145;62%;89;38%
+Fontibón;2013;Leche higienizada;74;41;55%;33;45%
+Engativá;2013;Leche higienizada;128;75;59%;53;41%
+Suba;2013;Leche higienizada;40;12;30%;28;70%
+Barrios Unidos;2013;Leche higienizada;1;1;100%;0;0%
+Teusaquillo;2013;Leche higienizada;9;3;33%;6;67%
+Los Mártires;2013;Leche higienizada;7;2;29%;5;71%
+Antonio Nariño;2013;Leche higienizada;7;1;14%;6;86%
+Puente Aranda;2013;Leche higienizada;55;47;85%;8;15%
+Rafael Uribe Uribe;2013;Leche higienizada;6;4;67%;2;33%
+Distrito;2013;Leche higienizada;650;375;58%;275;42%
+Usaquén;2014;Leche higienizada;51;19;37%;32;63%
+Chapinero;2014;Leche higienizada;3;3;100%;0;0%
+San Cristóbal;2014;Leche higienizada;28;12;43%;16;57%
+Tunjuelito;2014;Leche higienizada;1;0;0%;1;100%
+Bosa;2014;Leche higienizada;26;9;35%;17;65%
+Kennedy;2014;Leche higienizada;215;142;66%;73;34%
+Fontibón;2014;Leche higienizada;58;34;59%;24;41%
+Engativá;2014;Leche higienizada;163;87;53%;76;47%
+Suba;2014;Leche higienizada;47;11;23%;36;77%
+Barrios Unidos;2014;Leche higienizada;5;0;0%;5;100%
+Teusaquillo;2014;Leche higienizada;22;8;36%;14;64%
+Los Mártires;2014;Leche higienizada;8;5;63%;3;38%
+Antonio Nariño;2014;Leche higienizada;1;0;0%;1;100%
+Puente Aranda;2014;Leche higienizada;38;26;68%;12;32%
+Rafael Uribe Uribe;2014;Leche higienizada;4;0;0%;4;100%
+Distrito;2014;Leche higienizada;670;356;53%;314;47%
+Usaquén;2015;Leche higienizada;70;42;60%;28;40%
+Santa Fe;2015;Leche higienizada;2;0;0%;2;100%
+San Cristóbal;2015;Leche higienizada;27;11;41%;16;59%
+Tunjuelito;2015;Leche higienizada;8;3;38%;5;63%
+Bosa;2015;Leche higienizada;18;9;50%;9;50%
+Kennedy;2015;Leche higienizada;231;80;35%;151;65%
+Fontibón;2015;Leche higienizada;98;62;63%;36;37%
+Engativá;2015;Leche higienizada;111;52;47%;59;53%
+Suba;2015;Leche higienizada;24;10;42%;14;58%
+Barrios Unidos;2015;Leche higienizada;2;0;0%;2;100%
+Teusaquillo;2015;Leche higienizada;37;21;57%;16;43%
+Los Mártires;2015;Leche higienizada;8;6;75%;2;25%
+Puente Aranda;2015;Leche higienizada;30;14;47%;16;53%
+Rafael Uribe Uribe;2015;Leche higienizada;11;5;45%;6;55%
+Distrito;2015;Leche higienizada;677;315;47%;362;53%
+Usaquén;2016;Leche higienizada;70;43;61%;27;39%
+Chapinero;2016;Leche higienizada;2;0;0%;2;100%
+Santa Fe;2016;Leche higienizada;3;0;0%;3;100%
+San Cristóbal;2016;Leche higienizada;24;10;42%;14;58%
+Tunjuelito;2016;Leche higienizada;11;2;18%;9;82%
+Bosa;2016;Leche higienizada;15;5;33%;10;67%
+Kennedy;2016;Leche higienizada;173;66;38%;107;62%
+Fontibón;2016;Leche higienizada;59;26;44%;33;56%
+Engativá;2016;Leche higienizada;110;22;20%;88;80%
+Suba;2016;Leche higienizada;23;11;48%;12;52%
+Barrios Unidos;2016;Leche higienizada;6;1;17%;5;83%
+Teusaquillo;2016;Leche higienizada;25;5;20%;20;80%
+Los Mártires;2016;Leche higienizada;9;6;67%;3;33%
+Antonio Nariño;2016;Leche higienizada;2;0;0%;2;100%
+Puente Aranda;2016;Leche higienizada;39;17;44%;22;56%
+Rafael Uribe Uribe;2016;Leche higienizada;10;5;50%;5;50%
+Ciudad Bolívar;2016;Leche higienizada;1;1;100%;0;0%
+Distrito;2016;Leche higienizada;582;220;38%;362;62%
+Usaquén;2017;Leche higienizada;4;0;0%;4;100%
+Chapinero;2017;Leche higienizada;6;5;83%;1;17%
+Santa Fe;2017;Leche higienizada;14;5;36%;9;64%
+San Cristóbal;2017;Leche higienizada;8;2;25%;6;75%
+Tunjuelito;2017;Leche higienizada;47;22;47%;25;53%
+Bosa;2017;Leche higienizada;28;11;39%;17;61%
+Kennedy;2017;Leche higienizada;22;5;23%;17;77%
+Fontibón;2017;Leche higienizada;150;55;37%;95;63%
+Engativá;2017;Leche higienizada;64;25;39%;39;61%
+Suba;2017;Leche higienizada;16;5;31%;11;69%
+Barrios Unidos;2017;Leche higienizada;12;2;17%;10;83%
+Teusaquillo;2017;Leche higienizada;17;4;24%;13;76%
+Los Mártires;2017;Leche higienizada;31;17;55%;14;45%
+Antonio Nariño;2017;Leche higienizada;8;2;25%;6;75%
+Puente Aranda;2017;Leche higienizada;36;7;19%;29;81%
+La Candelaria;2017;Leche higienizada;2;0;0%;2;100%
+Rafael Uribe Uribe;2017;Leche higienizada;30;8;27%;22;73%
+Ciudad Bolívar;2017;Leche higienizada;78;14;18%;64;82%
+Distrito;2017;Leche higienizada;559;175;31%;384;69%
+Usaquén;2018;Leche higienizada;56;26;46%;30;54%
+Chapinero;2018;Leche higienizada;5;0;0%;5;100%
+Santa Fe;2018;Leche higienizada;9;3;33%;6;67%
+San Cristóbal;2018;Leche higienizada;23;4;17%;19;83%
+Usme;2018;Leche higienizada;12;4;33%;8;67%
+Tunjuelito;2018;Leche higienizada;8;1;13%;7;88%
+Bosa;2018;Leche higienizada;33;12;36%;21;64%
+Kennedy;2018;Leche higienizada;126;27;21%;99;79%
+Fontibón;2018;Leche higienizada;33;15;45%;18;55%
+Engativá;2018;Leche higienizada;67;21;31%;46;69%
+Suba;2018;Leche higienizada;44;8;18%;36;82%
+Barrios Unidos;2018;Leche higienizada;16;4;25%;12;75%
+Teusaquillo;2018;Leche higienizada;12;2;17%;10;83%
+Los Mártires;2018;Leche higienizada;11;2;18%;9;82%
+Antonio Nariño;2018;Leche higienizada;7;2;29%;5;71%
+Puente Aranda;2018;Leche higienizada;29;9;31%;20;69%
+La Candelaria;2018;Leche higienizada;2;0;0%;2;100%
+Rafael Uribe Uribe;2018;Leche higienizada;16;3;19%;13;81%
+Ciudad Bolívar;2018;Leche higienizada;14;4;29%;10;71%
+Distrito;2018;Leche higienizada;523;147;28%;376;72%
+Usaquén;2019;Leche higienizada;47;22;47%;25;53%
+Chapinero;2019;Leche higienizada;7;0;0%;7;100%
+Santa Fe;2019;Leche higienizada;8;4;50%;4;50%
+San Cristóbal;2019;Leche higienizada;20;8;40%;12;60%
+Usme;2019;Leche higienizada;5;1;20%;4;80%
+Tunjuelito;2019;Leche higienizada;5;1;20%;4;80%
+Bosa;2019;Leche higienizada;23;7;30%;16;70%
+Kennedy;2019;Leche higienizada;62;21;34%;41;66%
+Fontibón;2019;Leche higienizada;20;7;35%;13;65%
+Engativá;2019;Leche higienizada;53;20;38%;33;62%
+Suba;2019;Leche higienizada;10;3;30%;7;70%
+Barrios Unidos;2019;Leche higienizada;11;5;45%;6;55%
+Teusaquillo;2019;Leche higienizada;7;1;14%;6;86%
+Los Mártires;2019;Leche higienizada;15;5;33%;10;67%
+Antonio Nariño;2019;Leche higienizada;5;0;0%;5;100%
+Puente Aranda;2019;Leche higienizada;15;5;33%;10;67%
+La Candelaria;2019;Leche higienizada;2;1;50%;1;50%
+Rafael Uribe Uribe;2019;Leche higienizada;14;7;50%;7;50%
+Ciudad Bolívar;2019;Leche higienizada;2;0;0%;2;100%
+Distrito;2019;Leche higienizada;331;118;36%;213;64%
+Usaquén;2020;Leche higienizada;36;14;39%;22;61%
+Chapinero;2020;Leche higienizada;6;0;0%;6;100%
+Santa Fe;2020;Leche higienizada;0;0;0%;0;0%
+San Cristóbal;2020;Leche higienizada;16;7;44%;9;56%
+Usme;2020;Leche higienizada;0;0;0%;0;0%
+Tunjuelito;2020;Leche higienizada;1;0;0%;1;100%
+Bosa;2020;Leche higienizada;12;4;33%;8;67%
+Kennedy;2020;Leche higienizada;77;35;45%;42;55%
+Fontibón;2020;Leche higienizada;17;9;53%;8;47%
+Engativá;2020;Leche higienizada;67;40;60%;27;40%
+Suba;2020;Leche higienizada;9;1;11%;8;89%
+Barrios Unidos;2020;Leche higienizada;4;1;25%;3;75%
+Teusaquillo;2020;Leche higienizada;4;2;50%;2;50%
+Los Mártires;2020;Leche higienizada;16;6;38%;10;63%
+Antonio Nariño;2020;Leche higienizada;11;2;18%;9;82%
+Puente Aranda;2020;Leche higienizada;10;2;20%;8;80%
+La Candelaria;2020;Leche higienizada;2;2;100%;0;0%
+Rafael Uribe Uribe;2020;Leche higienizada;2;0;0%;2;100%
+Ciudad Bolívar;2020;Leche higienizada;0;0;0%;0;0%
+Distrito;2020;Leche higienizada;290;125;43%;165;57%
+Usaquén;2021;Leche higienizada;60;33;55%;27;45%
+Chapinero;2021;Leche higienizada;11;4;36%;7;64%
+Santa Fe;2021;Leche higienizada;9;6;67%;3;33%
+San Cristóbal;2021;Leche higienizada;16;8;50%;8;50%
+Usme;2021;Leche higienizada;8;4;50%;4;50%
+Tunjuelito;2021;Leche higienizada;5;2;40%;3;60%
+Bosa;2021;Leche higienizada;27;14;52%;13;48%
+Kennedy;2021;Leche higienizada;93;40;43%;53;57%
+Fontibón;2021;Leche higienizada;49;23;47%;26;53%
+Engativá;2021;Leche higienizada;75;39;52%;36;48%
+Suba;2021;Leche higienizada;32;23;72%;9;28%
+Barrios Unidos;2021;Leche higienizada;20;11;55%;9;45%
+Teusaquillo;2021;Leche higienizada;19;9;47%;10;53%
+Los Mártires;2021;Leche higienizada;11;5;45%;6;55%
+Antonio Nariño;2021;Leche higienizada;11;5;45%;6;55%
+Puente Aranda;2021;Leche higienizada;28;16;57%;12;43%
+La Candelaria;2021;Leche higienizada;2;2;100%;0;0%
+Rafael Uribe Uribe;2021;Leche higienizada;11;5;45%;6;55%
+Ciudad Bolívar;2021;Leche higienizada;15;9;60%;6;40%
+Distrito;2021;Leche higienizada;502;258;51%;244;49%
+Usaquén;2022p;Leche higienizada;55;22;40%;33;60%
+Chapinero;2022p;Leche higienizada;9;6;67%;3;33%
+Santa Fe;2022p;Leche higienizada;13;5;38%;8;62%
+San Cristóbal;2022p;Leche higienizada;28;10;36%;18;64%
+Usme;2022p;Leche higienizada;0;0;0%;0;0%
+Tunjuelito;2022p;Leche higienizada;5;1;20%;4;80%
+Bosa;2022p;Leche higienizada;29;13;45%;16;55%
+Kennedy;2022p;Leche higienizada;92;53;58%;39;42%
+Fontibón;2022p;Leche higienizada;33;24;73%;9;27%
+Engativá;2022p;Leche higienizada;79;42;53%;37;47%
+Suba;2022p;Leche higienizada;28;13;46%;15;54%
+Barrios Unidos;2022p;Leche higienizada;16;12;75%;4;25%
+Teusaquillo;2022p;Leche higienizada;17;9;53%;8;47%
+Los Mártires;2022p;Leche higienizada;15;7;47%;8;53%
+Antonio Nariño;2022p;Leche higienizada;17;4;24%;13;76%
+Puente Aranda;2022p;Leche higienizada;18;11;61%;7;39%
+La Candelaria;2022p;Leche higienizada;0;0;0%;0;0%
+Rafael Uribe Uribe;2022p;Leche higienizada;10;5;50%;5;50%
+Ciudad Bolívar;2022p;Leche higienizada;11;5;45%;6;55%
+Distrito;2022p;Leche higienizada;475;242;51%;233;49%
+Usaquén;2013;Panela;29;22;76%;7;24%
+Chapinero;2013;Panela;34;31;91%;3;9%
+Santa Fe;2013;Panela;32;23;72%;9;28%
+San Cristóbal;2013;Panela;33;25;76%;8;24%
+Usme;2013;Panela;34;29;85%;5;15%
+Tunjuelito;2013;Panela;25;17;68%;8;32%
+Bosa;2013;Panela;32;25;78%;7;22%
+Kennedy;2013;Panela;26;20;77%;6;23%
+Fontibón;2013;Panela;36;32;89%;4;11%
+Engativá;2013;Panela;30;25;83%;5;17%
+Suba;2013;Panela;35;26;74%;9;26%
+Barrios Unidos;2013;Panela;17;13;76%;4;24%
+Teusaquillo;2013;Panela;13;11;85%;2;15%
+Los Mártires;2013;Panela;17;12;71%;5;29%
+Antonio Nariño;2013;Panela;37;31;84%;6;16%
+Puente Aranda;2013;Panela;21;20;95%;1;5%
+La Candelaria;2013;Panela;17;11;65%;6;35%
+Rafael Uribe Uribe;2013;Panela;36;34;94%;2;6%
+Ciudad Bolívar;2013;Panela;24;18;75%;6;25%
+Distrito;2013;Panela;528;425;80%;103;20%
+Usaquén;2014;Panela;7;5;71%;2;29%
+Chapinero;2014;Panela;5;5;100%;0;0%
+Santa Fe;2014;Panela;6;6;100%;0;0%
+San Cristóbal;2014;Panela;6;4;67%;2;33%
+Usme;2014;Panela;7;3;43%;4;57%
+Tunjuelito;2014;Panela;3;3;100%;0;0%
+Bosa;2014;Panela;4;4;100%;0;0%
+Kennedy;2014;Panela;7;6;86%;1;14%
+Fontibón;2014;Panela;3;3;100%;0;0%
+Engativá;2014;Panela;4;4;100%;0;0%
+Suba;2014;Panela;8;6;75%;2;25%
+Barrios Unidos;2014;Panela;7;6;86%;1;14%
+Teusaquillo;2014;Panela;4;3;75%;1;25%
+Los Mártires;2014;Panela;8;8;100%;0;0%
+Antonio Nariño;2014;Panela;4;4;100%;0;0%
+Puente Aranda;2014;Panela;3;3;100%;0;0%
+La Candelaria;2014;Panela;6;4;67%;2;33%
+Rafael Uribe Uribe;2014;Panela;7;3;43%;4;57%
+Ciudad Bolívar;2014;Panela;8;7;88%;1;13%
+Distrito;2014;Panela;109;89;82%;20;18%
+Usaquén;2015;Panela;9;7;78%;2;22%
+Chapinero;2015;Panela;3;3;100%;0;0%
+Santa Fe;2015;Panela;5;4;80%;1;20%
+San Cristóbal;2015;Panela;8;5;63%;3;38%
+Usme;2015;Panela;7;5;71%;2;29%
+Tunjuelito;2015;Panela;9;5;56%;4;44%
+Bosa;2015;Panela;10;9;90%;1;10%
+Kennedy;2015;Panela;10;6;60%;4;40%
+Fontibón;2015;Panela;7;7;100%;0;0%
+Engativá;2015;Panela;8;6;75%;2;25%
+Suba;2015;Panela;7;6;86%;1;14%
+Barrios Unidos;2015;Panela;8;6;75%;2;25%
+Teusaquillo;2015;Panela;5;3;60%;2;40%
+Los Mártires;2015;Panela;5;4;80%;1;20%
+Antonio Nariño;2015;Panela;7;4;57%;3;43%
+Puente Aranda;2015;Panela;8;6;75%;2;25%
+La Candelaria;2015;Panela;5;4;80%;1;20%
+Rafael Uribe Uribe;2015;Panela;5;4;80%;1;20%
+Ciudad Bolívar;2015;Panela;5;5;100%;0;0%
+Distrito;2015;Panela;131;99;76%;32;24%
+Usaquén;2016;Panela;14;12;86%;2;14%
+Chapinero;2016;Panela;5;5;100%;0;0%
+Santa Fe;2016;Panela;12;11;92%;1;8%
+San Cristóbal;2016;Panela;18;17;94%;1;6%
+Usme;2016;Panela;12;12;100%;0;0%
+Tunjuelito;2016;Panela;14;14;100%;0;0%
+Bosa;2016;Panela;17;17;100%;0;0%
+Kennedy;2016;Panela;16;14;88%;2;13%
+Fontibón;2016;Panela;15;14;93%;1;7%
+Engativá;2016;Panela;17;16;94%;1;6%
+Suba;2016;Panela;17;14;82%;3;18%
+Barrios Unidos;2016;Panela;17;16;94%;1;6%
+Teusaquillo;2016;Panela;7;7;100%;0;0%
+Los Mártires;2016;Panela;14;13;93%;1;7%
+Antonio Nariño;2016;Panela;11;10;91%;1;9%
+Puente Aranda;2016;Panela;16;16;100%;0;0%
+La Candelaria;2016;Panela;10;9;90%;1;10%
+Rafael Uribe Uribe;2016;Panela;15;14;93%;1;7%
+Ciudad Bolívar;2016;Panela;13;12;92%;1;8%
+Distrito;2016;Panela;260;243;93%;17;7%
+Usaquén;2017;Panela;29;27;93%;2;7%
+Chapinero;2017;Panela;26;26;100%;0;0%
+Santa Fe;2017;Panela;20;18;90%;2;10%
+San Cristóbal;2017;Panela;21;17;81%;4;19%
+Usme;2017;Panela;25;23;92%;2;8%
+Tunjuelito;2017;Panela;30;26;87%;4;13%
+Bosa;2017;Panela;25;23;92%;2;8%
+Kennedy;2017;Panela;39;31;79%;8;21%
+Fontibón;2017;Panela;25;24;96%;1;4%
+Engativá;2017;Panela;24;23;96%;1;4%
+Suba;2017;Panela;28;26;93%;2;7%
+Barrios Unidos;2017;Panela;18;17;94%;1;6%
+Teusaquillo;2017;Panela;22;21;95%;1;5%
+Los Mártires;2017;Panela;20;19;95%;1;5%
+Antonio Nariño;2017;Panela;24;21;88%;3;13%
+Puente Aranda;2017;Panela;21;19;90%;2;10%
+La Candelaria;2017;Panela;20;18;90%;2;10%
+Rafael Uribe Uribe;2017;Panela;29;26;90%;3;10%
+Ciudad Bolívar;2017;Panela;27;26;96%;1;4%
+Distrito;2017;Panela;473;431;91%;42;9%
+Usaquén;2018;Panela;5;4;80%;1;20%
+Chapinero;2018;Panela;1;0;0%;1;100%
+Santa Fe;2018;Panela;5;5;100%;0;0%
+San Cristóbal;2018;Panela;3;3;100%;0;0%
+Usme;2018;Panela;4;4;100%;0;0%
+Tunjuelito;2018;Panela;4;3;75%;1;25%
+Bosa;2018;Panela;3;3;100%;0;0%
+Kennedy;2018;Panela;5;5;100%;0;0%
+Fontibón;2018;Panela;4;4;100%;0;0%
+Engativá;2018;Panela;4;4;100%;0;0%
+Suba;2018;Panela;2;1;50%;1;50%
+Barrios Unidos;2018;Panela;3;3;100%;0;0%
+Teusaquillo;2018;Panela;4;3;75%;1;25%
+Los Mártires;2018;Panela;4;4;100%;0;0%
+Antonio Nariño;2018;Panela;4;3;75%;1;25%
+Puente Aranda;2018;Panela;4;4;100%;0;0%
+La Candelaria;2018;Panela;2;2;100%;0;0%
+Rafael Uribe Uribe;2018;Panela;4;4;100%;0;0%
+Ciudad Bolívar;2018;Panela;4;2;50%;2;50%
+Distrito;2018;Panela;69;61;88%;8;12%
+Usaquén;2019;Panela;3;2;67%;1;33%
+Chapinero;2019;Panela;5;5;100%;0;0%
+Santa Fe;2019;Panela;4;4;100%;0;0%
+San Cristóbal;2019;Panela;5;5;100%;0;0%
+Usme;2019;Panela;4;3;75%;1;25%
+Tunjuelito;2019;Panela;4;4;100%;0;0%
+Bosa;2019;Panela;4;4;100%;0;0%
+Kennedy;2019;Panela;3;3;100%;0;0%
+Fontibón;2019;Panela;3;3;100%;0;0%
+Engativá;2019;Panela;4;4;100%;0;0%
+Suba;2019;Panela;4;4;100%;0;0%
+Barrios Unidos;2019;Panela;4;3;75%;1;25%
+Teusaquillo;2019;Panela;4;4;100%;0;0%
+Los Mártires;2019;Panela;2;1;50%;1;50%
+Antonio Nariño;2019;Panela;5;4;80%;1;20%
+Puente Aranda;2019;Panela;3;2;67%;1;33%
+La Candelaria;2019;Panela;2;1;50%;1;50%
+Rafael Uribe Uribe;2019;Panela;2;2;100%;0;0%
+Ciudad Bolívar;2019;Panela;2;2;100%;0;0%
+Distrito;2019;Panela;67;60;90%;7;10%
+Usaquén;2020;Panela;6;6;100%;0;0%
+Chapinero;2020;Panela;5;5;100%;0;0%
+Santa Fe;2020;Panela;3;3;100%;0;0%
+San Cristóbal;2020;Panela;3;3;100%;0;0%
+Usme;2020;Panela;8;7;88%;1;13%
+Tunjuelito;2020;Panela;7;5;71%;2;29%
+Bosa;2020;Panela;4;4;100%;0;0%
+Kennedy;2020;Panela;4;4;100%;0;0%
+Fontibón;2020;Panela;3;3;100%;0;0%
+Engativá;2020;Panela;5;5;100%;0;0%
+Suba;2020;Panela;4;4;100%;0;0%
+Barrios Unidos;2020;Panela;6;5;83%;1;17%
+Teusaquillo;2020;Panela;4;4;100%;0;0%
+Los Mártires;2020;Panela;4;3;75%;1;25%
+Antonio Nariño;2020;Panela;3;3;100%;0;0%
+Puente Aranda;2020;Panela;3;3;100%;0;0%
+La Candelaria;2020;Panela;3;2;67%;1;33%
+Rafael Uribe Uribe;2020;Panela;4;3;75%;1;25%
+Ciudad Bolívar;2020;Panela;7;7;100%;0;0%
+Distrito;2020;Panela;86;79;92%;7;8%
+Usaquén;2021;Panela;8;8;100%;0;0%
+Chapinero;2021;Panela;11;9;82%;2;18%
+Santa Fe;2021;Panela;12;10;83%;2;17%
+San Cristóbal;2021;Panela;9;7;78%;2;22%
+Usme;2021;Panela;16;11;69%;5;31%
+Tunjuelito;2021;Panela;10;9;90%;1;10%
+Bosa;2021;Panela;14;11;79%;3;21%
+Kennedy;2021;Panela;13;10;77%;3;23%
+Fontibón;2021;Panela;6;4;67%;2;33%
+Engativá;2021;Panela;13;11;85%;2;15%
+Suba;2021;Panela;10;9;90%;1;10%
+Barrios Unidos;2021;Panela;9;7;78%;2;22%
+Teusaquillo;2021;Panela;12;11;92%;1;8%
+Los Mártires;2021;Panela;10;8;80%;2;20%
+Antonio Nariño;2021;Panela;11;10;91%;1;9%
+Puente Aranda;2021;Panela;13;11;85%;2;15%
+La Candelaria;2021;Panela;6;6;100%;0;0%
+Rafael Uribe Uribe;2021;Panela;14;11;79%;3;21%
+Ciudad Bolívar;2021;Panela;13;12;92%;1;8%
+Distrito;2021;Panela;210;175;83%;35;17%
+Usaquén;2022p;Panela;15;15;100%;0;0%
+Chapinero;2022p;Panela;17;17;100%;0;0%
+Santa Fe;2022p;Panela;18;16;89%;2;11%
+San Cristóbal;2022p;Panela;16;13;81%;3;19%
+Usme;2022p;Panela;17;16;94%;1;6%
+Tunjuelito;2022p;Panela;11;10;91%;1;9%
+Bosa;2022p;Panela;10;10;100%;0;0%
+Kennedy;2022p;Panela;19;17;89%;2;11%
+Fontibón;2022p;Panela;17;14;82%;3;18%
+Engativá;2022p;Panela;17;15;88%;2;12%
+Suba;2022p;Panela;17;17;100%;0;0%
+Barrios Unidos;2022p;Panela;13;13;100%;0;0%
+Teusaquillo;2022p;Panela;15;15;100%;0;0%
+Los Mártires;2022p;Panela;13;11;85%;2;15%
+Antonio Nariño;2022p;Panela;13;13;100%;0;0%
+Puente Aranda;2022p;Panela;15;15;100%;0;0%
+La Candelaria;2022p;Panela;8;7;88%;1;13%
+Rafael Uribe Uribe;2022p;Panela;16;15;94%;1;6%
+Ciudad Bolívar;2022p;Panela;15;13;87%;2;13%
+Distrito;2022p;Panela;282;262;93%;20;7%
+Usaquén;2013;Pescado y derivados;6;4;67%;2;33%
+Chapinero;2013;Pescado y derivados;1;1;100%;0;0%
+Santa Fe;2013;Pescado y derivados;3;3;100%;0;0%
+San Cristóbal;2013;Pescado y derivados;21;12;57%;9;43%
+Usme;2013;Pescado y derivados;13;7;54%;6;46%
+Tunjuelito;2013;Pescado y derivados;20;13;65%;7;35%
+Bosa;2013;Pescado y derivados;4;3;75%;1;25%
+Kennedy;2013;Pescado y derivados;27;13;48%;14;52%
+Fontibón;2013;Pescado y derivados;32;26;81%;6;19%
+Engativá;2013;Pescado y derivados;18;11;61%;7;39%
+Suba;2013;Pescado y derivados;10;6;60%;4;40%
+Barrios Unidos;2013;Pescado y derivados;16;16;100%;0;0%
+Los Mártires;2013;Pescado y derivados;27;22;81%;5;19%
+Antonio Nariño;2013;Pescado y derivados;19;13;68%;6;32%
+Puente Aranda;2013;Pescado y derivados;2;1;50%;1;50%
+La Candelaria;2013;Pescado y derivados;2;2;100%;0;0%
+Rafael Uribe Uribe;2013;Pescado y derivados;15;10;67%;5;33%
+Ciudad Bolívar;2013;Pescado y derivados;4;2;50%;2;50%
+Distrito;2013;Pescado y derivados;239;164;69%;75;31%
+Usaquén;2014;Pescado y derivados;6;4;67%;2;33%
+Chapinero;2014;Pescado y derivados;6;6;100%;0;0%
+Santa Fe;2014;Pescado y derivados;10;10;100%;0;0%
+San Cristóbal;2014;Pescado y derivados;16;9;56%;7;44%
+Usme;2014;Pescado y derivados;5;1;20%;4;80%
+Tunjuelito;2014;Pescado y derivados;12;6;50%;6;50%
+Bosa;2014;Pescado y derivados;5;3;60%;2;40%
+Kennedy;2014;Pescado y derivados;13;10;77%;3;23%
+Fontibón;2014;Pescado y derivados;12;12;100%;0;0%
+Engativá;2014;Pescado y derivados;9;6;67%;3;33%
+Suba;2014;Pescado y derivados;13;9;69%;4;31%
+Barrios Unidos;2014;Pescado y derivados;16;15;94%;1;6%
+Teusaquillo;2014;Pescado y derivados;2;2;100%;0;0%
+Los Mártires;2014;Pescado y derivados;10;9;90%;1;10%
+Antonio Nariño;2014;Pescado y derivados;11;8;73%;3;27%
+Puente Aranda;2014;Pescado y derivados;12;7;58%;5;42%
+La Candelaria;2014;Pescado y derivados;2;2;100%;0;0%
+Rafael Uribe Uribe;2014;Pescado y derivados;11;8;73%;3;27%
+Ciudad Bolívar;2014;Pescado y derivados;8;3;38%;5;63%
+Distrito;2014;Pescado y derivados;179;130;73%;49;27%
+Usaquén;2015;Pescado y derivados;3;3;100%;0;0%
+Chapinero;2015;Pescado y derivados;9;9;100%;0;0%
+Santa Fe;2015;Pescado y derivados;11;11;100%;0;0%
+San Cristóbal;2015;Pescado y derivados;8;8;100%;0;0%
+Usme;2015;Pescado y derivados;2;2;100%;0;0%
+Tunjuelito;2015;Pescado y derivados;17;17;100%;0;0%
+Bosa;2015;Pescado y derivados;5;4;80%;1;20%
+Kennedy;2015;Pescado y derivados;4;4;100%;0;0%
+Fontibón;2015;Pescado y derivados;12;11;92%;1;8%
+Engativá;2015;Pescado y derivados;12;12;100%;0;0%
+Suba;2015;Pescado y derivados;10;10;100%;0;0%
+Barrios Unidos;2015;Pescado y derivados;13;13;100%;0;0%
+Teusaquillo;2015;Pescado y derivados;5;5;100%;0;0%
+Los Mártires;2015;Pescado y derivados;11;11;100%;0;0%
+Antonio Nariño;2015;Pescado y derivados;7;4;57%;3;43%
+Puente Aranda;2015;Pescado y derivados;14;14;100%;0;0%
+La Candelaria;2015;Pescado y derivados;1;1;100%;0;0%
+Rafael Uribe Uribe;2015;Pescado y derivados;9;9;100%;0;0%
+Ciudad Bolívar;2015;Pescado y derivados;3;3;100%;0;0%
+Distrito;2015;Pescado y derivados;156;151;97%;5;3%
+Usaquén;2016;Pescado y derivados;8;8;100%;0;0%
+Chapinero;2016;Pescado y derivados;2;2;100%;0;0%
+Santa Fe;2016;Pescado y derivados;10;10;100%;0;0%
+San Cristóbal;2016;Pescado y derivados;12;12;100%;0;0%
+Usme;2016;Pescado y derivados;2;2;100%;0;0%
+Tunjuelito;2016;Pescado y derivados;17;16;94%;1;6%
+Bosa;2016;Pescado y derivados;18;18;100%;0;0%
+Kennedy;2016;Pescado y derivados;11;11;100%;0;0%
+Fontibón;2016;Pescado y derivados;8;8;100%;0;0%
+Engativá;2016;Pescado y derivados;14;14;100%;0;0%
+Suba;2016;Pescado y derivados;16;16;100%;0;0%
+Barrios Unidos;2016;Pescado y derivados;16;16;100%;0;0%
+Teusaquillo;2016;Pescado y derivados;3;3;100%;0;0%
+Los Mártires;2016;Pescado y derivados;8;8;100%;0;0%
+Antonio Nariño;2016;Pescado y derivados;8;8;100%;0;0%
+Puente Aranda;2016;Pescado y derivados;12;11;92%;1;8%
+La Candelaria;2016;Pescado y derivados;6;6;100%;0;0%
+Rafael Uribe Uribe;2016;Pescado y derivados;11;11;100%;0;0%
+Ciudad Bolívar;2016;Pescado y derivados;4;3;75%;1;25%
+Distrito;2016;Pescado y derivados;186;183;98%;3;2%
+Usaquén;2017;Pescado y derivados;10;10;100%;0;0%
+Chapinero;2017;Pescado y derivados;9;9;100%;0;0%
+Santa Fe;2017;Pescado y derivados;10;9;90%;1;10%
+San Cristóbal;2017;Pescado y derivados;11;11;100%;0;0%
+Usme;2017;Pescado y derivados;1;1;100%;0;0%
+Tunjuelito;2017;Pescado y derivados;16;14;88%;2;13%
+Bosa;2017;Pescado y derivados;12;12;100%;0;0%
+Kennedy;2017;Pescado y derivados;17;17;100%;0;0%
+Fontibón;2017;Pescado y derivados;9;9;100%;0;0%
+Engativá;2017;Pescado y derivados;19;18;95%;1;5%
+Suba;2017;Pescado y derivados;11;11;100%;0;0%
+Barrios Unidos;2017;Pescado y derivados;12;11;92%;1;8%
+Teusaquillo;2017;Pescado y derivados;11;11;100%;0;0%
+Los Mártires;2017;Pescado y derivados;15;15;100%;0;0%
+Antonio Nariño;2017;Pescado y derivados;12;10;83%;2;17%
+Puente Aranda;2017;Pescado y derivados;8;8;100%;0;0%
+La Candelaria;2017;Pescado y derivados;10;10;100%;0;0%
+Rafael Uribe Uribe;2017;Pescado y derivados;15;15;100%;0;0%
+Ciudad Bolívar;2017;Pescado y derivados;12;12;100%;0;0%
+Distrito;2017;Pescado y derivados;220;213;97%;7;3%
+Usaquén;2018;Pescado y derivados;9;9;100%;0;0%
+Chapinero;2018;Pescado y derivados;8;8;100%;0;0%
+Santa Fe;2018;Pescado y derivados;20;20;100%;0;0%
+San Cristóbal;2018;Pescado y derivados;8;8;100%;0;0%
+Usme;2018;Pescado y derivados;7;6;86%;1;14%
+Tunjuelito;2018;Pescado y derivados;14;13;93%;1;7%
+Bosa;2018;Pescado y derivados;11;11;100%;0;0%
+Kennedy;2018;Pescado y derivados;14;10;71%;4;29%
+Fontibón;2018;Pescado y derivados;11;11;100%;0;0%
+Engativá;2018;Pescado y derivados;6;6;100%;0;0%
+Suba;2018;Pescado y derivados;8;8;100%;0;0%
+Barrios Unidos;2018;Pescado y derivados;11;11;100%;0;0%
+Teusaquillo;2018;Pescado y derivados;6;6;100%;0;0%
+Los Mártires;2018;Pescado y derivados;12;12;100%;0;0%
+Antonio Nariño;2018;Pescado y derivados;9;8;89%;1;11%
+Puente Aranda;2018;Pescado y derivados;10;9;90%;1;10%
+La Candelaria;2018;Pescado y derivados;2;2;100%;0;0%
+Rafael Uribe Uribe;2018;Pescado y derivados;11;11;100%;0;0%
+Ciudad Bolívar;2018;Pescado y derivados;14;14;100%;0;0%
+Distrito;2018;Pescado y derivados;191;183;96%;8;4%
+Usaquén;2019;Pescado y derivados;7;6;86%;1;14%
+Chapinero;2019;Pescado y derivados;6;6;100%;0;0%
+Santa Fe;2019;Pescado y derivados;5;4;80%;1;20%
+San Cristóbal;2019;Pescado y derivados;8;7;88%;1;13%
+Usme;2019;Pescado y derivados;6;6;100%;0;0%
+Tunjuelito;2019;Pescado y derivados;7;7;100%;0;0%
+Bosa;2019;Pescado y derivados;9;6;67%;3;33%
+Kennedy;2019;Pescado y derivados;12;10;83%;2;17%
+Fontibón;2019;Pescado y derivados;8;6;75%;2;25%
+Engativá;2019;Pescado y derivados;6;6;100%;0;0%
+Suba;2019;Pescado y derivados;8;8;100%;0;0%
+Barrios Unidos;2019;Pescado y derivados;9;9;100%;0;0%
+Teusaquillo;2019;Pescado y derivados;8;8;100%;0;0%
+Los Mártires;2019;Pescado y derivados;3;2;67%;1;33%
+Antonio Nariño;2019;Pescado y derivados;5;5;100%;0;0%
+Puente Aranda;2019;Pescado y derivados;9;8;89%;1;11%
+La Candelaria;2019;Pescado y derivados;6;6;100%;0;0%
+Rafael Uribe Uribe;2019;Pescado y derivados;7;6;86%;1;14%
+Ciudad Bolívar;2019;Pescado y derivados;9;7;78%;2;22%
+Distrito;2019;Pescado y derivados;138;123;89%;15;11%
+Usaquén;2020;Pescado y derivados;7;7;100%;0;0%
+Chapinero;2020;Pescado y derivados;7;6;86%;1;14%
+Santa Fe;2020;Pescado y derivados;0;0;0%;0;0%
+San Cristóbal;2020;Pescado y derivados;0;0;0%;0;0%
+Usme;2020;Pescado y derivados;6;3;50%;3;50%
+Tunjuelito;2020;Pescado y derivados;8;7;88%;1;13%
+Bosa;2020;Pescado y derivados;9;7;78%;2;22%
+Kennedy;2020;Pescado y derivados;9;9;100%;0;0%
+Fontibón;2020;Pescado y derivados;2;2;100%;0;0%
+Engativá;2020;Pescado y derivados;6;1;17%;5;83%
+Suba;2020;Pescado y derivados;6;5;83%;1;17%
+Barrios Unidos;2020;Pescado y derivados;8;8;100%;0;0%
+Teusaquillo;2020;Pescado y derivados;9;8;89%;1;11%
+Los Mártires;2020;Pescado y derivados;3;2;67%;0;0%
+Antonio Nariño;2020;Pescado y derivados;0;0;0%;0;0%
+Puente Aranda;2020;Pescado y derivados;10;7;70%;2;20%
+La Candelaria;2020;Pescado y derivados;0;0;0%;0;0%
+Rafael Uribe Uribe;2020;Pescado y derivados;1;1;100%;0;0%
+Ciudad Bolívar;2020;Pescado y derivados;8;7;88%;1;13%
+Distrito;2020;Pescado y derivados;99;80;81%;17;17%
+Usaquén;2021;Pescado y derivados;5;4;80%;1;20%
+Chapinero;2021;Pescado y derivados;0;0;0%;0;0%
+Santa Fe;2021;Pescado y derivados;5;5;100%;0;0%
+San Cristóbal;2021;Pescado y derivados;5;3;60%;2;40%
+Usme;2021;Pescado y derivados;0;0;0%;0;0%
+Tunjuelito;2021;Pescado y derivados;3;2;67%;1;33%
+Bosa;2021;Pescado y derivados;5;4;80%;1;20%
+Kennedy;2021;Pescado y derivados;5;5;100%;0;0%
+Fontibón;2021;Pescado y derivados;5;3;60%;2;40%
+Engativá;2021;Pescado y derivados;5;5;100%;0;0%
+Suba;2021;Pescado y derivados;0;0;0%;0;0%
+Barrios Unidos;2021;Pescado y derivados;0;0;0%;0;0%
+Teusaquillo;2021;Pescado y derivados;5;5;100%;0;0%
+Los Mártires;2021;Pescado y derivados;0;0;0%;0;0%
+Antonio Nariño;2021;Pescado y derivados;0;0;0%;0;0%
+Puente Aranda;2021;Pescado y derivados;5;5;100%;0;0%
+La Candelaria;2021;Pescado y derivados;0;0;0%;0;0%
+Rafael Uribe Uribe;2021;Pescado y derivados;0;0;0%;0;0%
+Ciudad Bolívar;2021;Pescado y derivados;2;1;50%;1;50%
+Distrito;2021;Pescado y derivados;50;42;84%;8;16%
+Usaquén;2022p;Pescado y derivados;10;10;100%;0;0%
+Chapinero;2022p;Pescado y derivados;0;0;0%;0;0%
+Santa Fe;2022p;Pescado y derivados;11;10;91%;1;9%
+San Cristóbal;2022p;Pescado y derivados;5;4;80%;1;20%
+Usme;2022p;Pescado y derivados;4;2;50%;2;50%
+Tunjuelito;2022p;Pescado y derivados;10;9;90%;1;10%
+Bosa;2022p;Pescado y derivados;0;0;0%;0;0%
+Kennedy;2022p;Pescado y derivados;10;6;60%;4;40%
+Fontibón;2022p;Pescado y derivados;10;7;70%;3;30%
+Engativá;2022p;Pescado y derivados;5;5;100%;0;0%
+Suba;2022p;Pescado y derivados;10;6;60%;4;40%
+Barrios Unidos;2022p;Pescado y derivados;7;7;100%;0;0%
+Teusaquillo;2022p;Pescado y derivados;0;0;0%;0;0%
+Los Mártires;2022p;Pescado y derivados;10;8;80%;2;20%
+Antonio Nariño;2022p;Pescado y derivados;5;5;100%;0;0%
+Puente Aranda;2022p;Pescado y derivados;10;8;80%;2;20%
+La Candelaria;2022p;Pescado y derivados;0;0;0%;0;0%
+Rafael Uribe Uribe;2022p;Pescado y derivados;10;5;50%;5;50%
+Ciudad Bolívar;2022p;Pescado y derivados;6;3;50%;3;50%
+Distrito;2022p;Pescado y derivados;123;95;77%;28;23%
+Usaquén;2013;Sal;21;19;90%;2;10%
+Chapinero;2013;Sal;21;21;100%;0;0%
+Santa Fe;2013;Sal;23;22;96%;1;4%
+San Cristóbal;2013;Sal;26;20;77%;6;23%
+Usme;2013;Sal;25;23;92%;2;8%
+Tunjuelito;2013;Sal;22;17;77%;5;23%
+Bosa;2013;Sal;23;21;91%;2;9%
+Kennedy;2013;Sal;22;16;73%;6;27%
+Fontibón;2013;Sal;49;43;88%;6;12%
+Engativá;2013;Sal;24;20;83%;4;17%
+Suba;2013;Sal;30;23;77%;7;23%
+Barrios Unidos;2013;Sal;23;21;91%;2;9%
+Teusaquillo;2013;Sal;4;4;100%;0;0%
+Los Mártires;2013;Sal;23;21;91%;2;9%
+Antonio Nariño;2013;Sal;25;23;92%;2;8%
+Puente Aranda;2013;Sal;21;18;86%;3;14%
+La Candelaria;2013;Sal;6;6;100%;0;0%
+Rafael Uribe Uribe;2013;Sal;30;23;77%;7;23%
+Ciudad Bolívar;2013;Sal;20;17;85%;3;15%
+Distrito;2013;Sal;438;378;86%;60;14%
+Usaquén;2014;Sal;16;15;94%;1;6%
+Chapinero;2014;Sal;23;22;96%;1;4%
+Santa Fe;2014;Sal;19;19;100%;0;0%
+San Cristóbal;2014;Sal;19;12;63%;7;37%
+Usme;2014;Sal;21;18;86%;3;14%
+Tunjuelito;2014;Sal;19;19;100%;0;0%
+Bosa;2014;Sal;22;21;95%;1;5%
+Kennedy;2014;Sal;23;21;91%;2;9%
+Fontibón;2014;Sal;23;20;87%;3;13%
+Engativá;2014;Sal;15;13;87%;2;13%
+Suba;2014;Sal;18;18;100%;0;0%
+Barrios Unidos;2014;Sal;22;20;91%;2;9%
+Los Mártires;2014;Sal;22;20;91%;2;9%
+Antonio Nariño;2014;Sal;18;17;94%;1;6%
+Puente Aranda;2014;Sal;18;16;89%;2;11%
+La Candelaria;2014;Sal;1;1;100%;0;0%
+Rafael Uribe Uribe;2014;Sal;18;17;94%;1;6%
+Ciudad Bolívar;2014;Sal;17;16;94%;1;6%
+Distrito;2014;Sal;339;310;91%;29;9%
+Usaquén;2015;Sal;22;22;100%;0;0%
+Chapinero;2015;Sal;13;13;100%;0;0%
+Santa Fe;2015;Sal;21;21;100%;0;0%
+San Cristóbal;2015;Sal;25;24;96%;1;4%
+Usme;2015;Sal;30;30;100%;0;0%
+Tunjuelito;2015;Sal;31;31;100%;0;0%
+Bosa;2015;Sal;28;25;89%;3;11%
+Kennedy;2015;Sal;29;28;97%;1;3%
+Fontibón;2015;Sal;26;26;100%;0;0%
+Engativá;2015;Sal;22;21;95%;1;5%
+Suba;2015;Sal;24;24;100%;0;0%
+Barrios Unidos;2015;Sal;35;35;100%;0;0%
+Teusaquillo;2015;Sal;6;6;100%;0;0%
+Los Mártires;2015;Sal;21;20;95%;1;5%
+Antonio Nariño;2015;Sal;26;25;96%;1;4%
+Puente Aranda;2015;Sal;28;28;100%;0;0%
+La Candelaria;2015;Sal;6;6;100%;0;0%
+Rafael Uribe Uribe;2015;Sal;24;24;100%;0;0%
+Ciudad Bolívar;2015;Sal;19;18;95%;1;5%
+Distrito;2015;Sal;436;427;98%;9;2%
+Usaquén;2016;Sal;17;10;59%;7;41%
+Chapinero;2016;Sal;9;8;89%;1;11%
+Santa Fe;2016;Sal;12;9;75%;3;25%
+San Cristóbal;2016;Sal;23;13;57%;10;43%
+Usme;2016;Sal;17;14;82%;3;18%
+Tunjuelito;2016;Sal;21;17;81%;4;19%
+Bosa;2016;Sal;23;18;78%;5;22%
+Kennedy;2016;Sal;21;12;57%;9;43%
+Fontibón;2016;Sal;23;18;78%;5;22%
+Engativá;2016;Sal;25;18;72%;7;28%
+Suba;2016;Sal;20;18;90%;2;10%
+Barrios Unidos;2016;Sal;18;9;50%;9;50%
+Teusaquillo;2016;Sal;11;7;64%;4;36%
+Los Mártires;2016;Sal;19;19;100%;0;0%
+Antonio Nariño;2016;Sal;17;15;88%;2;12%
+Puente Aranda;2016;Sal;21;17;81%;4;19%
+La Candelaria;2016;Sal;4;4;100%;0;0%
+Rafael Uribe Uribe;2016;Sal;17;16;94%;1;6%
+Ciudad Bolívar;2016;Sal;17;9;53%;8;47%
+Distrito;2016;Sal;335;251;75%;84;25%
+Usaquén;2017;Sal;21;18;86%;3;14%
+Chapinero;2017;Sal;19;18;95%;1;5%
+Santa Fe;2017;Sal;15;15;100%;0;0%
+San Cristóbal;2017;Sal;23;20;87%;3;13%
+Usme;2017;Sal;21;18;86%;3;14%
+Tunjuelito;2017;Sal;29;24;83%;5;17%
+Bosa;2017;Sal;21;15;71%;6;29%
+Kennedy;2017;Sal;33;27;82%;6;18%
+Fontibón;2017;Sal;23;16;70%;7;30%
+Engativá;2017;Sal;23;19;83%;4;17%
+Suba;2017;Sal;22;17;77%;5;23%
+Barrios Unidos;2017;Sal;18;13;72%;5;28%
+Teusaquillo;2017;Sal;16;16;100%;0;0%
+Los Mártires;2017;Sal;19;16;84%;3;16%
+Antonio Nariño;2017;Sal;21;16;76%;5;24%
+Puente Aranda;2017;Sal;16;16;100%;0;0%
+La Candelaria;2017;Sal;14;14;100%;0;0%
+Rafael Uribe Uribe;2017;Sal;21;16;76%;5;24%
+Ciudad Bolívar;2017;Sal;24;23;96%;1;4%
+Distrito;2017;Sal;399;337;84%;62;16%
+Usaquén;2018;Sal;19;19;100%;0;0%
+Chapinero;2018;Sal;20;18;90%;2;10%
+Santa Fe;2018;Sal;17;15;88%;2;12%
+San Cristóbal;2018;Sal;18;16;89%;2;11%
+Usme;2018;Sal;21;12;57%;9;43%
+Tunjuelito;2018;Sal;20;17;85%;3;15%
+Bosa;2018;Sal;18;13;72%;5;28%
+Kennedy;2018;Sal;20;14;70%;6;30%
+Fontibón;2018;Sal;20;15;75%;5;25%
+Engativá;2018;Sal;14;12;86%;2;14%
+Suba;2018;Sal;20;15;75%;5;25%
+Barrios Unidos;2018;Sal;22;20;91%;2;9%
+Teusaquillo;2018;Sal;18;15;83%;3;17%
+Los Mártires;2018;Sal;16;11;69%;5;31%
+Antonio Nariño;2018;Sal;19;17;89%;2;11%
+Puente Aranda;2018;Sal;19;16;84%;3;16%
+La Candelaria;2018;Sal;24;18;75%;6;25%
+Rafael Uribe Uribe;2018;Sal;17;13;76%;4;24%
+Ciudad Bolívar;2018;Sal;20;14;70%;6;30%
+Distrito;2018;Sal;362;290;80%;72;20%
+Usaquén;2019;Sal;13;10;77%;3;23%
+Chapinero;2019;Sal;11;10;91%;1;9%
+Santa Fe;2019;Sal;8;5;63%;3;38%
+San Cristóbal;2019;Sal;10;10;100%;;0%
+Usme;2019;Sal;12;7;58%;5;42%
+Tunjuelito;2019;Sal;12;8;67%;4;33%
+Bosa;2019;Sal;13;8;62%;5;38%
+Kennedy;2019;Sal;16;9;56%;7;44%
+Fontibón;2019;Sal;14;3;21%;11;79%
+Engativá;2019;Sal;13;11;85%;2;15%
+Suba;2019;Sal;14;11;79%;3;21%
+Barrios Unidos;2019;Sal;14;10;71%;4;29%
+Teusaquillo;2019;Sal;14;10;71%;4;29%
+Los Mártires;2019;Sal;11;9;82%;2;18%
+Antonio Nariño;2019;Sal;10;4;40%;6;60%
+Puente Aranda;2019;Sal;13;10;77%;3;23%
+La Candelaria;2019;Sal;10;9;90%;1;10%
+Rafael Uribe Uribe;2019;Sal;10;8;80%;2;20%
+Ciudad Bolívar;2019;Sal;13;10;77%;3;23%
+Distrito;2019;Sal;231;162;70%;69;30%
+Usaquén;2020;Sal;7;5;71%;2;29%
+Chapinero;2020;Sal;6;6;100%;0;0%
+Santa Fe;2020;Sal;2;0;0%;2;100%
+San Cristóbal;2020;Sal;3;2;67%;1;33%
+Usme;2020;Sal;10;6;60%;4;40%
+Tunjuelito;2020;Sal;5;3;60%;2;40%
+Bosa;2020;Sal;7;4;57%;3;43%
+Kennedy;2020;Sal;5;4;80%;1;20%
+Fontibón;2020;Sal;2;0;0%;2;100%
+Engativá;2020;Sal;7;4;57%;3;43%
+Suba;2020;Sal;3;1;33%;2;67%
+Barrios Unidos;2020;Sal;6;3;50%;3;50%
+Teusaquillo;2020;Sal;6;5;83%;1;17%
+Los Mártires;2020;Sal;8;5;63%;3;38%
+Antonio Nariño;2020;Sal;3;1;33%;2;67%
+Puente Aranda;2020;Sal;5;4;80%;1;20%
+La Candelaria;2020;Sal;4;3;75%;1;25%
+Rafael Uribe Uribe;2020;Sal;6;6;100%;0;0%
+Ciudad Bolívar;2020;Sal;7;4;57%;3;43%
+Distrito;2020;Sal;102;66;65%;36;35%
+Usaquén;2021;Sal;8;6;75%;2;25%
+Chapinero;2021;Sal;7;6;86%;1;14%
+Santa Fe;2021;Sal;12;11;92%;1;8%
+San Cristóbal;2021;Sal;9;8;89%;1;11%
+Usme;2021;Sal;13;12;92%;1;8%
+Tunjuelito;2021;Sal;12;11;92%;1;8%
+Bosa;2021;Sal;12;8;67%;4;33%
+Kennedy;2021;Sal;13;12;92%;1;8%
+Fontibón;2021;Sal;7;7;100%;0;0%
+Engativá;2021;Sal;11;10;91%;1;9%
+Suba;2021;Sal;9;8;89%;1;11%
+Barrios Unidos;2021;Sal;7;7;100%;0;0%
+Teusaquillo;2021;Sal;9;7;78%;2;22%
+Los Mártires;2021;Sal;8;7;88%;1;13%
+Antonio Nariño;2021;Sal;11;10;91%;1;9%
+Puente Aranda;2021;Sal;13;12;92%;1;8%
+La Candelaria;2021;Sal;6;5;83%;1;17%
+Rafael Uribe Uribe;2021;Sal;13;10;77%;3;23%
+Ciudad Bolívar;2021;Sal;10;8;80%;2;20%
+Distrito;2021;Sal;190;165;87%;25;13%
+Usaquén;2022p;Sal;21;18;86%;3;14%
+Chapinero;2022p;Sal;23;22;96%;1;4%
+Santa Fe;2022p;Sal;22;21;95%;1;5%
+San Cristóbal;2022p;Sal;24;23;96%;1;4%
+Usme;2022p;Sal;16;12;75%;4;25%
+Tunjuelito;2022p;Sal;20;17;85%;3;15%
+Bosa;2022p;Sal;14;11;79%;3;21%
+Kennedy;2022p;Sal;23;18;78%;5;22%
+Fontibón;2022p;Sal;21;17;81%;4;19%
+Engativá;2022p;Sal;23;20;87%;3;13%
+Suba;2022p;Sal;23;22;96%;1;4%
+Barrios Unidos;2022p;Sal;17;16;94%;1;6%
+Teusaquillo;2022p;Sal;18;16;89%;2;11%
+Los Mártires;2022p;Sal;21;18;86%;3;14%
+Antonio Nariño;2022p;Sal;18;15;83%;3;17%
+Puente Aranda;2022p;Sal;30;23;77%;7;23%
+La Candelaria;2022p;Sal;9;7;78%;2;22%
+Rafael Uribe Uribe;2022p;Sal;27;22;81%;5;19%
+Ciudad Bolívar;2022p;Sal;20;19;95%;1;5%
+Distrito;2022p;Sal;390;337;86%;53;14%
